@@ -1,6 +1,27 @@
 
-#setwd("R:/GWF2 Stage 2/Field Operations/Data/All_light_data_Rfisher")
-#setwd("R:/GWF2 Stage 2/Field Operations/Data/Ocean Apex/DL3_#0029")
+#    Copyright 2020 Australian Institute of Marine Science
+#
+#    Licenced under a Creative Commons Attribution 4.0 International licence.
+#    you may not use this file except in compliance with the License.
+#    You may obtain a copy of the License at
+#
+#       hhttps://creativecommons.org/licenses/by/4.0/
+#
+#    Unless required by applicable law or agreed to in writing, software
+#    distributed under the License is distributed on an "AS IS" BASIS,
+#    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#    See the License for the specific language governing permissions and
+#    limitations under the License.
+
+#' parse.MS8.logger.dat
+#'
+#' Reads in MS8 logger data
+#'
+#' @param  file.f The MS8 logger file to be processed (including path, if required)
+#'
+#' @export
+#' @return A list containing the processed MS8 logger data, including a combined dataset as well as the individual channels present.
+#' 
 parse.MS8.logger.dat=function(file.f){
   # scratch: absorption.dat=NA;night.correct=T; include.daily=T
   require(doBy)

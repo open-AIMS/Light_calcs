@@ -1,4 +1,39 @@
+#    Copyright 2020 Australian Institute of Marine Science and In-situ Marine Optics
+#
+#    Licenced under a Creative Commons Attribution 4.0 International licence.
+#    you may not use this file except in compliance with the License.
+#    You may obtain a copy of the License at
+#
+#       hhttps://creativecommons.org/licenses/by/4.0/
+#
+#    Unless required by applicable law or agreed to in writing, software
+#    distributed under the License is distributed on an "AS IS" BASIS,
+#    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#    See the License for the specific language governing permissions and
+#    limitations under the License.
 
+#' calc.PAR
+#'
+#' Calculates PAR and PUR for a given depth and TSS level, based on solar zenthith angle, observed model data collected in Cleveland Bay and an absportion spectra
+#'
+#' @param  SZA Solar Zenthis Angle
+#' 
+#' @param TSS Total suspended solids level in the water column (generally derived as conversion factor from NTU readings)
+#' 
+#' @param Depth water depth at which the light reading should be estimated
+#' 
+#' @param solar.zenith.dat Fraction of illumination given a solar zenith angle (SZA)
+#' 
+#' @param model.dat Model data derived from IMO light measurements
+#'
+#' @param absorption.dat A data.frame containing an absorption spectrum to use for calculating PUR. Must contain columns fo nm and normalized absoption/action (values between zero and one)
+#' 
+#' @param ND.adj xxx
+#' 
+#' @param nm.range Light eavelength range over which PUR and PAR will be calculated
+#'
+#' @export
+#' @return Calculated PUR and PAR light data.
 
 
 calc.PAR=function(SZA=0,
@@ -17,13 +52,13 @@ calc.PAR=function(SZA=0,
 
   # read in supporting data
   if(length(solar.zenith.dat)==1){
-   solar.zenith.dat=read.csv("U:/1 TOWNSVILLE PORT - CLEVELAND BAY/1  REBECCA FISHER ANALYSES/RScripts/solar_zenith_dat.csv")
+   solar.zenith.dat=read.csv("Data/solar_zenith_dat.csv")
   }
   if(length(model.dat)==1){
-   model.dat=read.csv("U:/1 TOWNSVILLE PORT - CLEVELAND BAY/1  REBECCA FISHER ANALYSES/RScripts/model_dat.csv")
+   model.dat=read.csv("Data/model_dat.csv")
   }
   if(length(absorption.dat)==1){
-   absorption.dat=read.csv("U:/1 TOWNSVILLE PORT - CLEVELAND BAY/1  REBECCA FISHER ANALYSES/RScripts/absorption_dat.csv")
+   absorption.dat=read.csv("Data/absorption_dat.csv")
   }
 
   # extract variables
