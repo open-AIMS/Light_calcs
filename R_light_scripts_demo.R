@@ -18,7 +18,7 @@ require(NISTunits)
 
 # please be respectful. If you are going to share outside our group or use this code in any way, let me know who
 # with and what they are doing with it :)
-
+devtools::install_github("AIMS/Light_calcs")
 source("R/IMO_Light_model.R")
 source("R/Process_light_MS8.R")
 source("R/Parse_light_MS8.R")
