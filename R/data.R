@@ -1,18 +1,19 @@
 
 
 
-#' @title absorption.dat
+#' @title absorptionDat
 #' @description Absorption data
 #' @format A data frame with 302 obs. of  2 variables:
 #' \describe{
 #'   \item{\code{nm}}{double Wavelength in nm}
 #'   \item{\code{Absorption}}{double Normalised absorption spectra}
 #'}
-#' @source \url{}
-"absorption.dat"
+#' @name absorptionDat
+#' @docType data
+NULL
 
 
-#' @title model.dat
+#' @title modelDat
 #' @description Model data derived from IMO observations in Cleveland Bay
 #' @format A data frame with 351 obs. of  7 variables:
 #' \describe{
@@ -22,13 +23,14 @@
 #'   \item{\code{Es_C0}}{double Es_C0}
 #'   \item{\code{Es_C1}}{double Es_C1}
 #'   \item{\code{Es_C2}}{Es_C2}
-#'   \item{\code{Es_C3}
+#'   \item{\code{Es_C3}}{Es_C2}
 #'}
 #' @source \url{}
-"model.dat"
+#' @name modelDat
+#' @docType data
+NULL
 
-
-#' @title solar.zenith.dat
+#' @title solar.zenithDat
 #' @description MSolar zenith data
 #' @format A data frame with 91 obs. of  2 variables:
 #' \describe{
@@ -36,5 +38,7 @@
 #'   \item{\code{frac}}{frac}
 #'}
 #' @source \url{}
-"solar.zenith.dat"
+#' @name solar.senithDat
+#' @docType data
+NULL
 

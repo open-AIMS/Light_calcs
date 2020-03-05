@@ -224,7 +224,7 @@ proccess.MS8.logger.dat=function(file.f,
 
   # Add PUR based on an action spectrum
   if(length(absorption.dat)==1){
-   absorption.dat=Light.calcs::absorption.dat
+   absorption.dat=absorptionDat
   }
   absorption.dat=merge(data.frame(nm=new.lambda.vec),absorption.dat,all=T)
   absorption.vals=approx(absorption.dat$nm,
