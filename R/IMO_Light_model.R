@@ -51,14 +51,15 @@ calc.PAR=function(SZA=0,
   #NISTradianTOdeg(pi)
 
   # read in supporting data
-  if(length(solar.zenith.dat)==1){
-   solar.zenith.dat=solarZenithDat
-  }
+
   if(length(model.dat)==1){
-   model.dat=modelDat
+   model.dat=Light.calcs::modelDat
   }
   if(length(absorption.dat)==1){
-   absorption.dat=absorptionDat
+   absorption.dat=Light.calcs::absorptionDat
+  }
+  if(length(solar.zenith.dat)==1){
+    solar.zenith.dat=Light.calcs::solarZenithDat
   }
 
   # extract variables
