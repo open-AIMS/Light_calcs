@@ -39,9 +39,9 @@
 calc.PAR=function(SZA=0,
                   TSS=0,
                   Depth=0,
-                  solar.zenith.dat=NA,
-                  model.dat=NA,
-                  absorption.dat=NA,
+                  solar.zenith.dat=solarZenithDat,
+                  model.dat=modelDat,
+                  absorption.dat=absorptionDat,
                   ND.adj=1,
                   nm.range=c(400,700)){
   #SZA=0;TSS=0.5;Depth=5;solar.zenithDat=NA;modelDat=NA;absorptionDat=NA;nm.range=c(400,700)
@@ -52,15 +52,15 @@ calc.PAR=function(SZA=0,
 
   # read in supporting data
 
-  if(length(model.dat)==1){
-   model.dat=Light.calcs::modelDat
-  }
-  if(length(absorption.dat)==1){
-   absorption.dat=Light.calcs::absorptionDat
-  }
-  if(length(solar.zenith.dat)==1){
-    solar.zenith.dat=Light.calcs::solarZenithDat
-  }
+  # if(length(model.dat)==1){
+  #  model.dat=Light.calcs::modelDat
+  # }
+  # if(length(absorption.dat)==1){
+  #  absorption.dat=Light.calcs::absorptionDat
+  # }
+  # if(length(solar.zenith.dat)==1){
+  #   solar.zenith.dat=Light.calcs::solarZenithDat
+  # }
 
   # extract variables
   Solar.Zenith.Angle=SZA

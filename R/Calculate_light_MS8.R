@@ -28,7 +28,7 @@
 #' @return A list containing the processed MS8 logger data.
 
 calculate.MS8.logger.dat=function(parsed.file.f,
-                               absorption.dat=NA,
+                               absorption.dat=absorptionDat,
                                night.correct=T,
                                include.daily=T){
   # scratch: absorption.dat=NA;night.correct=T; include.daily=T
@@ -102,9 +102,9 @@ calculate.MS8.logger.dat=function(parsed.file.f,
   all.dat.f.min$PAR=rowSums(micromolespersec_ipol)
 
   # Add PUR based on an action spectrum
-  if(length(absorption.dat)==1){
-   absorption.dat=Light.calcs::absorptionDat
-  }
+  #if(length(absorption.dat)==1){
+  # absorption.dat=Light.calcs::absorptionDat
+  #}
   absorption.dat=merge(data.frame(nm=new.lambda.vec),absorption.dat,all=T)
   absorption.vals=approx(absorption.dat$nm,
                                           absorption.dat$Absorption,
