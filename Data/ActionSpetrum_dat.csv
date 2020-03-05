@@ -1,0 +1,1814 @@
+study.spectra,nm,Absorption
+Halldal,398.52,0.66
+Halldal,404.45,0.69
+Halldal,411.86,0.72
+Halldal,413.34,0.76
+Halldal,420.76,0.79
+Halldal,426.69,0.83
+Halldal,432.62,0.87
+Halldal,435.58,0.91
+Halldal,438.55,0.94
+Halldal,441.52,0.97
+Halldal,447.45,1
+Halldal,459.31,1
+Halldal,468.2,0.95
+Halldal,474.14,0.92
+Halldal,481.55,0.88
+Halldal,494.89,0.84
+Halldal,494.89,0.81
+Halldal,499.34,0.75
+Halldal,502.31,0.72
+Halldal,505.27,0.69
+Halldal,506.75,0.65
+Halldal,513.67,0.62
+Halldal,521.09,0.59
+Halldal,527.51,0.58
+Halldal,538.88,0.59
+Halldal,542.34,0.61
+Halldal,549.26,0.63
+Halldal,558.65,0.63
+Halldal,565.57,0.6
+Halldal,570.02,0.57
+Halldal,572.98,0.55
+Halldal,575.95,0.52
+Halldal,583.36,0.5
+Halldal,588.3,0.47
+Halldal,596.71,0.46
+Halldal,608.57,0.46
+Halldal,614.99,0.47
+Halldal,619.44,0.48
+Halldal,624.88,0.5
+Halldal,629.82,0.52
+Halldal,635.75,0.54
+Halldal,640.2,0.56
+Halldal,644.15,0.58
+Halldal,647.61,0.6
+Halldal,651.57,0.62
+Halldal,654.53,0.64
+Halldal,657.99,0.67
+Halldal,660.46,0.69
+Halldal,660.46,0.72
+Halldal,662.44,0.74
+Halldal,663.43,0.76
+Halldal,664.91,0.78
+Halldal,666.39,0.8
+Halldal,668.37,0.82
+Halldal,670.84,0.83
+Halldal,675.29,0.83
+Halldal,678.25,0.81
+Halldal,677.27,0.79
+Halldal,677.27,0.76
+Halldal,679.74,0.7
+Halldal,682.7,0.64
+Halldal,682.7,0.59
+Halldal,684.18,0.54
+Halldal,684.18,0.49
+Halldal,685.67,0.45
+Halldal,687.64,0.4
+Halldal,687.64,0.35
+Halldal,688.63,0.32
+Halldal,690.12,0.27
+Halldal,691.6,0.24
+Halldal,692.09,0.21
+Halldal,693.58,0.17
+Halldal,696.05,0.13
+Halldal,699.51,0.09
+Kuhl,410.01,0.11
+Kuhl,411.48,0.2
+Kuhl,412.66,0.28
+Kuhl,415.01,0.4
+Kuhl,417.08,0.5
+Kuhl,418.84,0.63
+Kuhl,422.08,0.74
+Kuhl,423.85,0.82
+Kuhl,425.61,0.87
+Kuhl,427.38,0.91
+Kuhl,429.15,0.94
+Kuhl,430.03,0.96
+Kuhl,432.97,0.96
+Kuhl,435.33,0.95
+Kuhl,437.1,0.93
+Kuhl,439.16,0.91
+Kuhl,442.39,0.89
+Kuhl,446.81,0.9
+Kuhl,452.11,0.92
+Kuhl,455.94,0.94
+Kuhl,459.47,0.96
+Kuhl,462.71,0.99
+Kuhl,464.77,1
+Kuhl,468.01,0.99
+Kuhl,474.48,0.96
+Kuhl,478.02,0.92
+Kuhl,480.37,0.87
+Kuhl,483.02,0.82
+Kuhl,485.67,0.76
+Kuhl,489.21,0.72
+Kuhl,492.15,0.68
+Kuhl,498.04,0.65
+Kuhl,505.1,0.65
+Kuhl,511.58,0.62
+Kuhl,516.88,0.58
+Kuhl,520.41,0.55
+Kuhl,523.65,0.52
+Kuhl,524.83,0.49
+Kuhl,529.83,0.47
+Kuhl,536.9,0.48
+Kuhl,538.08,0.48
+Kuhl,540.43,0.47
+Kuhl,543.08,0.43
+Kuhl,544.26,0.39
+Kuhl,548.38,0.35
+Kuhl,549.56,0.3
+Kuhl,550.15,0.28
+Kuhl,554.56,0.25
+Kuhl,559.27,0.23
+Kuhl,563.69,0.23
+Kuhl,569.87,0.21
+Kuhl,576.94,0.2
+Kuhl,581.06,0.21
+Kuhl,585.77,0.21
+Kuhl,589.3,0.2
+Kuhl,598.14,0.18
+Kuhl,605.2,0.18
+Kuhl,609.62,0.18
+Kuhl,614.92,0.2
+Kuhl,618.45,0.21
+Kuhl,622.57,0.22
+Kuhl,627.28,0.23
+Kuhl,632.29,0.25
+Kuhl,635.23,0.28
+Kuhl,637.59,0.28
+Kuhl,639.65,0.3
+Kuhl,643.18,0.31
+Kuhl,647.3,0.33
+Kuhl,649.07,0.35
+Kuhl,652.6,0.38
+Kuhl,654.37,0.42
+Kuhl,655.54,0.45
+Kuhl,658.19,0.48
+Kuhl,658.78,0.51
+Kuhl,660.84,0.55
+Kuhl,663.2,0.57
+Kuhl,663.49,0.6
+Kuhl,665.26,0.62
+Kuhl,666.73,0.64
+Kuhl,668.79,0.67
+Kuhl,669.68,0.68
+Kuhl,672.91,0.7
+Kuhl,674.98,0.7
+Kuhl,677.33,0.7
+Kuhl,679.39,0.67
+Kuhl,681.75,0.64
+Kuhl,682.04,0.6
+Kuhl,685.57,0.56
+Kuhl,687.05,0.52
+Kuhl,687.93,0.5
+Kuhl,689.7,0.45
+Kuhl,691.46,0.4
+Kuhl,691.76,0.37
+Kuhl,692.35,0.32
+Kuhl,694.41,0.28
+Kuhl,695,0.24
+Kuhl,695.29,0.21
+Kuhl,697.64,0.17
+Kuhl,698.82,0.13
+Kuhl,700.59,0.1
+Low light Prezelin,400,0.62
+Low light Prezelin,405.06,0.74
+Low light Prezelin,410.67,0.76
+Low light Prezelin,420.79,0.78
+Low light Prezelin,426.97,0.83
+Low light Prezelin,430.9,0.9
+Low light Prezelin,441.57,0.91
+Low light Prezelin,447.75,0.94
+Low light Prezelin,455.06,0.98
+Low light Prezelin,461.24,1
+Low light Prezelin,465.17,0.96
+Low light Prezelin,472.47,0.91
+Low light Prezelin,478.65,0.86
+Low light Prezelin,481.46,0.82
+Low light Prezelin,487.08,0.82
+Low light Prezelin,493.82,0.79
+Low light Prezelin,499.44,0.77
+Low light Prezelin,505.62,0.73
+Low light Prezelin,514.61,0.71
+Low light Prezelin,525.28,0.68
+Low light Prezelin,533.15,0.66
+Low light Prezelin,541.01,0.62
+Low light Prezelin,544.94,0.56
+Low light Prezelin,550.56,0.51
+Low light Prezelin,555.62,0.45
+Low light Prezelin,560.67,0.38
+Low light Prezelin,567.42,0.33
+Low light Prezelin,574.72,0.27
+Low light Prezelin,584.27,0.3
+Low light Prezelin,591.01,0.32
+Low light Prezelin,597.19,0.33
+Low light Prezelin,600,0.26
+Low light Prezelin,608.99,0.29
+Low light Prezelin,617.42,0.33
+Low light Prezelin,627.53,0.36
+Low light Prezelin,633.71,0.38
+Low light Prezelin,641.01,0.4
+Low light Prezelin,647.19,0.41
+Low light Prezelin,656.18,0.43
+Low light Prezelin,660.11,0.53
+Low light Prezelin,663.48,0.67
+Low light Prezelin,666.85,0.79
+Low light Prezelin,669.66,0.89
+Low light Prezelin,670.79,0.95
+Low light Prezelin,672.47,0.98
+Low light Prezelin,676.97,0.96
+Low light Prezelin,677.53,0.85
+Low light Prezelin,680.9,0.71
+Low light Prezelin,681.46,0.58
+Low light Prezelin,683.71,0.45
+Low light Prezelin,686.52,0.34
+Low light Prezelin,687.64,0.25
+Low light Prezelin,691.57,0.16
+Low light Prezelin,695.51,0.09
+Low light Prezelin,699.44,0.03
+High Light Prezelin,400,0.6
+High Light Prezelin,404.12,0.66
+High Light Prezelin,404.95,0.71
+High Light Prezelin,407.42,0.78
+High Light Prezelin,410.71,0.83
+High Light Prezelin,413.19,0.87
+High Light Prezelin,418.96,0.9
+High Light Prezelin,425.55,0.93
+High Light Prezelin,429.67,0.97
+High Light Prezelin,432.97,1
+High Light Prezelin,442.86,1
+High Light Prezelin,449.45,0.95
+High Light Prezelin,456.87,0.92
+High Light Prezelin,465.11,0.87
+High Light Prezelin,471.7,0.87
+High Light Prezelin,477.47,0.81
+High Light Prezelin,483.24,0.74
+High Light Prezelin,491.48,0.68
+High Light Prezelin,504.67,0.62
+High Light Prezelin,515.38,0.56
+High Light Prezelin,526.92,0.52
+High Light Prezelin,540.93,0.47
+High Light Prezelin,549.18,0.43
+High Light Prezelin,555.77,0.35
+High Light Prezelin,561.54,0.28
+High Light Prezelin,572.25,0.25
+High Light Prezelin,585.44,0.23
+High Light Prezelin,596.98,0.21
+High Light Prezelin,610.99,0.23
+High Light Prezelin,622.53,0.24
+High Light Prezelin,639.01,0.26
+High Light Prezelin,655.49,0.3
+High Light Prezelin,659.62,0.38
+High Light Prezelin,661.26,0.47
+High Light Prezelin,664.56,0.56
+High Light Prezelin,663.74,0.65
+High Light Prezelin,664.56,0.71
+High Light Prezelin,666.21,0.77
+High Light Prezelin,666.21,0.81
+High Light Prezelin,668.68,0.89
+High Light Prezelin,671.98,0.94
+High Light Prezelin,676.1,0.9
+High Light Prezelin,680.22,0.83
+High Light Prezelin,678.57,0.74
+High Light Prezelin,681.04,0.64
+High Light Prezelin,683.52,0.56
+High Light Prezelin,685.16,0.42
+High Light Prezelin,688.46,0.32
+High Light Prezelin,690.93,0.2
+High Light Prezelin,694.23,0.13
+High Light Prezelin,698.35,0.08
+High Light Prezelin,699.18,0.06
+Chlorophyl a,400,0.69
+Chlorophyl a,401,0.71
+Chlorophyl a,402,0.72
+Chlorophyl a,403,0.74
+Chlorophyl a,404,0.76
+Chlorophyl a,405,0.78
+Chlorophyl a,406,0.79
+Chlorophyl a,407,0.8
+Chlorophyl a,408,0.81
+Chlorophyl a,409,0.82
+Chlorophyl a,410,0.83
+Chlorophyl a,411,0.84
+Chlorophyl a,412,0.85
+Chlorophyl a,413,0.86
+Chlorophyl a,414,0.87
+Chlorophyl a,415,0.88
+Chlorophyl a,416,0.89
+Chlorophyl a,417,0.89
+Chlorophyl a,418,0.9
+Chlorophyl a,419,0.91
+Chlorophyl a,420,0.91
+Chlorophyl a,421,0.92
+Chlorophyl a,422,0.92
+Chlorophyl a,423,0.93
+Chlorophyl a,424,0.93
+Chlorophyl a,425,0.94
+Chlorophyl a,426,0.94
+Chlorophyl a,427,0.95
+Chlorophyl a,428,0.96
+Chlorophyl a,429,0.97
+Chlorophyl a,430,0.97
+Chlorophyl a,431,0.98
+Chlorophyl a,432,0.98
+Chlorophyl a,433,0.99
+Chlorophyl a,434,0.99
+Chlorophyl a,435,1
+Chlorophyl a,436,1
+Chlorophyl a,437,1
+Chlorophyl a,438,1
+Chlorophyl a,439,1
+Chlorophyl a,440,1
+Chlorophyl a,441,0.99
+Chlorophyl a,442,0.99
+Chlorophyl a,443,0.98
+Chlorophyl a,444,0.98
+Chlorophyl a,445,0.97
+Chlorophyl a,446,0.96
+Chlorophyl a,447,0.96
+Chlorophyl a,448,0.95
+Chlorophyl a,449,0.95
+Chlorophyl a,450,0.94
+Chlorophyl a,451,0.94
+Chlorophyl a,452,0.94
+Chlorophyl a,453,0.93
+Chlorophyl a,454,0.93
+Chlorophyl a,455,0.93
+Chlorophyl a,456,0.92
+Chlorophyl a,457,0.92
+Chlorophyl a,458,0.92
+Chlorophyl a,459,0.92
+Chlorophyl a,460,0.92
+Chlorophyl a,461,0.91
+Chlorophyl a,462,0.91
+Chlorophyl a,463,0.91
+Chlorophyl a,464,0.9
+Chlorophyl a,465,0.9
+Chlorophyl a,466,0.89
+Chlorophyl a,467,0.89
+Chlorophyl a,468,0.88
+Chlorophyl a,469,0.88
+Chlorophyl a,470,0.87
+Chlorophyl a,471,0.86
+Chlorophyl a,472,0.86
+Chlorophyl a,473,0.85
+Chlorophyl a,474,0.84
+Chlorophyl a,475,0.84
+Chlorophyl a,476,0.83
+Chlorophyl a,477,0.82
+Chlorophyl a,478,0.81
+Chlorophyl a,479,0.81
+Chlorophyl a,480,0.8
+Chlorophyl a,481,0.79
+Chlorophyl a,482,0.79
+Chlorophyl a,483,0.78
+Chlorophyl a,484,0.78
+Chlorophyl a,485,0.77
+Chlorophyl a,486,0.77
+Chlorophyl a,487,0.76
+Chlorophyl a,488,0.76
+Chlorophyl a,489,0.75
+Chlorophyl a,490,0.75
+Chlorophyl a,491,0.74
+Chlorophyl a,492,0.74
+Chlorophyl a,493,0.73
+Chlorophyl a,494,0.72
+Chlorophyl a,495,0.72
+Chlorophyl a,496,0.71
+Chlorophyl a,497,0.7
+Chlorophyl a,498,0.69
+Chlorophyl a,499,0.68
+Chlorophyl a,500,0.67
+Chlorophyl a,501,0.66
+Chlorophyl a,502,0.66
+Chlorophyl a,503,0.65
+Chlorophyl a,504,0.65
+Chlorophyl a,505,0.64
+Chlorophyl a,506,0.64
+Chlorophyl a,507,0.63
+Chlorophyl a,508,0.63
+Chlorophyl a,509,0.62
+Chlorophyl a,510,0.62
+Chlorophyl a,511,0.61
+Chlorophyl a,512,0.6
+Chlorophyl a,513,0.6
+Chlorophyl a,514,0.59
+Chlorophyl a,515,0.58
+Chlorophyl a,516,0.57
+Chlorophyl a,517,0.56
+Chlorophyl a,518,0.55
+Chlorophyl a,519,0.54
+Chlorophyl a,520,0.53
+Chlorophyl a,521,0.52
+Chlorophyl a,522,0.52
+Chlorophyl a,523,0.51
+Chlorophyl a,524,0.51
+Chlorophyl a,525,0.5
+Chlorophyl a,526,0.5
+Chlorophyl a,527,0.49
+Chlorophyl a,528,0.49
+Chlorophyl a,529,0.48
+Chlorophyl a,530,0.47
+Chlorophyl a,531,0.47
+Chlorophyl a,532,0.46
+Chlorophyl a,533,0.46
+Chlorophyl a,534,0.45
+Chlorophyl a,535,0.44
+Chlorophyl a,536,0.44
+Chlorophyl a,537,0.43
+Chlorophyl a,538,0.43
+Chlorophyl a,539,0.42
+Chlorophyl a,540,0.42
+Chlorophyl a,541,0.41
+Chlorophyl a,542,0.4
+Chlorophyl a,543,0.4
+Chlorophyl a,544,0.39
+Chlorophyl a,545,0.38
+Chlorophyl a,546,0.38
+Chlorophyl a,547,0.37
+Chlorophyl a,548,0.37
+Chlorophyl a,549,0.36
+Chlorophyl a,550,0.36
+Chlorophyl a,551,0.35
+Chlorophyl a,552,0.34
+Chlorophyl a,553,0.34
+Chlorophyl a,554,0.33
+Chlorophyl a,555,0.32
+Chlorophyl a,556,0.32
+Chlorophyl a,557,0.31
+Chlorophyl a,558,0.3
+Chlorophyl a,559,0.3
+Chlorophyl a,560,0.29
+Chlorophyl a,561,0.29
+Chlorophyl a,562,0.29
+Chlorophyl a,563,0.28
+Chlorophyl a,564,0.28
+Chlorophyl a,565,0.27
+Chlorophyl a,566,0.27
+Chlorophyl a,567,0.27
+Chlorophyl a,568,0.27
+Chlorophyl a,569,0.28
+Chlorophyl a,570,0.28
+Chlorophyl a,571,0.27
+Chlorophyl a,572,0.27
+Chlorophyl a,573,0.27
+Chlorophyl a,574,0.27
+Chlorophyl a,575,0.27
+Chlorophyl a,576,0.27
+Chlorophyl a,577,0.28
+Chlorophyl a,578,0.28
+Chlorophyl a,579,0.29
+Chlorophyl a,580,0.29
+Chlorophyl a,581,0.29
+Chlorophyl a,582,0.28
+Chlorophyl a,583,0.28
+Chlorophyl a,584,0.28
+Chlorophyl a,585,0.27
+Chlorophyl a,586,0.28
+Chlorophyl a,587,0.28
+Chlorophyl a,588,0.28
+Chlorophyl a,589,0.28
+Chlorophyl a,590,0.28
+Chlorophyl a,591,0.28
+Chlorophyl a,592,0.27
+Chlorophyl a,593,0.26
+Chlorophyl a,594,0.26
+Chlorophyl a,595,0.25
+Chlorophyl a,596,0.25
+Chlorophyl a,597,0.24
+Chlorophyl a,598,0.24
+Chlorophyl a,599,0.24
+Chlorophyl a,600,0.24
+Chlorophyl a,601,0.24
+Chlorophyl a,602,0.25
+Chlorophyl a,603,0.26
+Chlorophyl a,604,0.27
+Chlorophyl a,605,0.28
+Chlorophyl a,606,0.27
+Chlorophyl a,607,0.27
+Chlorophyl a,608,0.26
+Chlorophyl a,609,0.26
+Chlorophyl a,610,0.25
+Chlorophyl a,611,0.25
+Chlorophyl a,612,0.26
+Chlorophyl a,613,0.26
+Chlorophyl a,614,0.26
+Chlorophyl a,615,0.27
+Chlorophyl a,616,0.27
+Chlorophyl a,617,0.27
+Chlorophyl a,618,0.27
+Chlorophyl a,619,0.27
+Chlorophyl a,620,0.28
+Chlorophyl a,621,0.28
+Chlorophyl a,622,0.28
+Chlorophyl a,623,0.29
+Chlorophyl a,624,0.29
+Chlorophyl a,625,0.3
+Chlorophyl a,626,0.3
+Chlorophyl a,627,0.31
+Chlorophyl a,628,0.31
+Chlorophyl a,629,0.31
+Chlorophyl a,630,0.32
+Chlorophyl a,631,0.32
+Chlorophyl a,632,0.32
+Chlorophyl a,633,0.33
+Chlorophyl a,634,0.33
+Chlorophyl a,635,0.33
+Chlorophyl a,636,0.33
+Chlorophyl a,637,0.33
+Chlorophyl a,638,0.33
+Chlorophyl a,639,0.33
+Chlorophyl a,640,0.33
+Chlorophyl a,641,0.33
+Chlorophyl a,642,0.33
+Chlorophyl a,643,0.33
+Chlorophyl a,644,0.33
+Chlorophyl a,645,0.33
+Chlorophyl a,646,0.33
+Chlorophyl a,647,0.34
+Chlorophyl a,648,0.34
+Chlorophyl a,649,0.35
+Chlorophyl a,650,0.36
+Chlorophyl a,651,0.36
+Chlorophyl a,652,0.37
+Chlorophyl a,653,0.38
+Chlorophyl a,654,0.38
+Chlorophyl a,655,0.39
+Chlorophyl a,656,0.4
+Chlorophyl a,657,0.41
+Chlorophyl a,658,0.42
+Chlorophyl a,659,0.43
+Chlorophyl a,660,0.44
+Chlorophyl a,661,0.46
+Chlorophyl a,662,0.48
+Chlorophyl a,663,0.5
+Chlorophyl a,664,0.51
+Chlorophyl a,665,0.53
+Chlorophyl a,666,0.55
+Chlorophyl a,667,0.56
+Chlorophyl a,668,0.57
+Chlorophyl a,669,0.58
+Chlorophyl a,670,0.59
+Chlorophyl a,671,0.58
+Chlorophyl a,672,0.57
+Chlorophyl a,673,0.56
+Chlorophyl a,674,0.55
+Chlorophyl a,675,0.54
+Chlorophyl a,676,0.54
+Chlorophyl a,677,0.53
+Chlorophyl a,678,0.52
+Chlorophyl a,679,0.51
+Chlorophyl a,680,0.5
+Chlorophyl a,681,0.49
+Chlorophyl a,682,0.47
+Chlorophyl a,683,0.45
+Chlorophyl a,684,0.44
+Chlorophyl a,685,0.42
+Chlorophyl a,686,0.4
+Chlorophyl a,687,0.38
+Chlorophyl a,688,0.37
+Chlorophyl a,689,0.35
+Chlorophyl a,690,0.33
+Chlorophyl a,691,0.32
+Chlorophyl a,692,0.3
+Chlorophyl a,693,0.29
+Chlorophyl a,694,0.28
+Chlorophyl a,695,0.26
+Chlorophyl a,696,0.25
+Chlorophyl a,697,0.24
+Chlorophyl a,698,0.23
+Chlorophyl a,699,0.22
+Chlorophyl a,700,0.21
+Wangpraseurt,400,0.68035
+Wangpraseurt,401,0.68205
+Wangpraseurt,402,0.66364
+Wangpraseurt,403,0.67218
+Wangpraseurt,404,0.6912
+Wangpraseurt,405,0.72328
+Wangpraseurt,406,0.75066
+Wangpraseurt,407,0.75852
+Wangpraseurt,408,0.75586
+Wangpraseurt,409,0.76242
+Wangpraseurt,410,0.77414
+Wangpraseurt,411,0.78863
+Wangpraseurt,412,0.79305
+Wangpraseurt,413,0.78685
+Wangpraseurt,414,0.79653
+Wangpraseurt,415,0.80969
+Wangpraseurt,416,0.82463
+Wangpraseurt,417,0.8351
+Wangpraseurt,418,0.83042
+Wangpraseurt,419,0.83108
+Wangpraseurt,420,0.83422
+Wangpraseurt,421,0.83762
+Wangpraseurt,422,0.84414
+Wangpraseurt,423,0.8537
+Wangpraseurt,424,0.86582
+Wangpraseurt,425,0.87835
+Wangpraseurt,426,0.87572
+Wangpraseurt,427,0.87765
+Wangpraseurt,428,0.88178
+Wangpraseurt,429,0.8922
+Wangpraseurt,430,0.90469
+Wangpraseurt,431,0.91556
+Wangpraseurt,432,0.9216
+Wangpraseurt,433,0.93693
+Wangpraseurt,434,0.9421
+Wangpraseurt,435,0.95981
+Wangpraseurt,436,0.9716
+Wangpraseurt,437,0.97391
+Wangpraseurt,438,0.97276
+Wangpraseurt,439,0.97412
+Wangpraseurt,440,0.97607
+Wangpraseurt,441,0.9792
+Wangpraseurt,442,0.97119
+Wangpraseurt,443,0.97571
+Wangpraseurt,444,0.97083
+Wangpraseurt,445,0.97144
+Wangpraseurt,446,0.9743
+Wangpraseurt,447,0.97575
+Wangpraseurt,448,0.97514
+Wangpraseurt,449,0.96295
+Wangpraseurt,450,0.95757
+Wangpraseurt,451,0.95902
+Wangpraseurt,452,0.9622
+Wangpraseurt,453,0.96833
+Wangpraseurt,454,0.96572
+Wangpraseurt,455,0.96506
+Wangpraseurt,456,0.96106
+Wangpraseurt,457,0.96317
+Wangpraseurt,458,0.97382
+Wangpraseurt,459,0.98297
+Wangpraseurt,460,0.99255
+Wangpraseurt,461,0.99394
+Wangpraseurt,462,0.99128
+Wangpraseurt,463,0.9908
+Wangpraseurt,464,0.99192
+Wangpraseurt,465,1
+Wangpraseurt,466,0.99646
+Wangpraseurt,467,0.99389
+Wangpraseurt,468,0.98826
+Wangpraseurt,469,0.98688
+Wangpraseurt,470,0.98445
+Wangpraseurt,471,0.98288
+Wangpraseurt,472,0.97702
+Wangpraseurt,473,0.97475
+Wangpraseurt,474,0.96642
+Wangpraseurt,475,0.96365
+Wangpraseurt,476,0.95843
+Wangpraseurt,477,0.95409
+Wangpraseurt,478,0.94712
+Wangpraseurt,479,0.93629
+Wangpraseurt,480,0.92598
+Wangpraseurt,481,0.91736
+Wangpraseurt,482,0.90977
+Wangpraseurt,483,0.90215
+Wangpraseurt,484,0.89533
+Wangpraseurt,485,0.88993
+Wangpraseurt,486,0.88487
+Wangpraseurt,487,0.88003
+Wangpraseurt,488,0.87488
+Wangpraseurt,489,0.86775
+Wangpraseurt,490,0.86216
+Wangpraseurt,491,0.8579
+Wangpraseurt,492,0.85447
+Wangpraseurt,493,0.85256
+Wangpraseurt,494,0.84974
+Wangpraseurt,495,0.84784
+Wangpraseurt,496,0.84252
+Wangpraseurt,497,0.83823
+Wangpraseurt,498,0.83011
+Wangpraseurt,499,0.82352
+Wangpraseurt,500,0.81508
+Wangpraseurt,501,0.80699
+Wangpraseurt,502,0.80127
+Wangpraseurt,503,0.79514
+Wangpraseurt,504,0.7874
+Wangpraseurt,505,0.77861
+Wangpraseurt,506,0.77042
+Wangpraseurt,507,0.76583
+Wangpraseurt,508,0.75988
+Wangpraseurt,509,0.75089
+Wangpraseurt,510,0.74185
+Wangpraseurt,511,0.73305
+Wangpraseurt,512,0.72646
+Wangpraseurt,513,0.71974
+Wangpraseurt,514,0.71425
+Wangpraseurt,515,0.70694
+Wangpraseurt,516,0.70324
+Wangpraseurt,517,0.69642
+Wangpraseurt,518,0.68907
+Wangpraseurt,519,0.67958
+Wangpraseurt,520,0.67388
+Wangpraseurt,521,0.66764
+Wangpraseurt,522,0.66114
+Wangpraseurt,523,0.65333
+Wangpraseurt,524,0.64738
+Wangpraseurt,525,0.6408
+Wangpraseurt,526,0.63362
+Wangpraseurt,527,0.62522
+Wangpraseurt,528,0.61828
+Wangpraseurt,529,0.6106
+Wangpraseurt,530,0.60418
+Wangpraseurt,531,0.597
+Wangpraseurt,532,0.58824
+Wangpraseurt,533,0.57836
+Wangpraseurt,534,0.56871
+Wangpraseurt,535,0.55836
+Wangpraseurt,536,0.54982
+Wangpraseurt,537,0.53922
+Wangpraseurt,538,0.52891
+Wangpraseurt,539,0.51749
+Wangpraseurt,540,0.50589
+Wangpraseurt,541,0.4942
+Wangpraseurt,542,0.48262
+Wangpraseurt,543,0.4712
+Wangpraseurt,544,0.45962
+Wangpraseurt,545,0.44607
+Wangpraseurt,546,0.43276
+Wangpraseurt,547,0.41812
+Wangpraseurt,548,0.40534
+Wangpraseurt,549,0.39162
+Wangpraseurt,550,0.37802
+Wangpraseurt,551,0.36306
+Wangpraseurt,552,0.34701
+Wangpraseurt,553,0.3315
+Wangpraseurt,554,0.31597
+Wangpraseurt,555,0.30142
+Wangpraseurt,556,0.28653
+Wangpraseurt,557,0.27075
+Wangpraseurt,558,0.25599
+Wangpraseurt,559,0.24134
+Wangpraseurt,560,0.22788
+Wangpraseurt,561,0.21267
+Wangpraseurt,562,0.20059
+Wangpraseurt,563,0.18792
+Wangpraseurt,564,0.17773
+Wangpraseurt,565,0.16576
+Wangpraseurt,566,0.15607
+Wangpraseurt,567,0.14683
+Wangpraseurt,568,0.13897
+Wangpraseurt,569,0.13164
+Wangpraseurt,570,0.12519
+Wangpraseurt,571,0.12088
+Wangpraseurt,572,0.11656
+Wangpraseurt,573,0.11288
+Wangpraseurt,574,0.10884
+Wangpraseurt,575,0.10614
+Wangpraseurt,576,0.10462
+Wangpraseurt,577,0.10292
+Wangpraseurt,578,0.10062
+Wangpraseurt,579,0.09947
+Wangpraseurt,580,0.09922
+Wangpraseurt,581,0.10001
+Wangpraseurt,582,0.10101
+Wangpraseurt,583,0.10131
+Wangpraseurt,584,0.10169
+Wangpraseurt,585,0.10183
+Wangpraseurt,586,0.10326
+Wangpraseurt,587,0.10442
+Wangpraseurt,588,0.10487
+Wangpraseurt,589,0.10476
+Wangpraseurt,590,0.1048
+Wangpraseurt,591,0.10557
+Wangpraseurt,592,0.10541
+Wangpraseurt,593,0.10339
+Wangpraseurt,594,0.09994
+Wangpraseurt,595,0.0957
+Wangpraseurt,596,0.09197
+Wangpraseurt,597,0.0878
+Wangpraseurt,598,0.08289
+Wangpraseurt,599,0.07806
+Wangpraseurt,600,0.07361
+Wangpraseurt,601,0.07025
+Wangpraseurt,602,0.06709
+Wangpraseurt,603,0.06416
+Wangpraseurt,604,0.06182
+Wangpraseurt,605,0.06042
+Wangpraseurt,606,0.06007
+Wangpraseurt,607,0.06144
+Wangpraseurt,608,0.06344
+Wangpraseurt,609,0.06536
+Wangpraseurt,610,0.06768
+Wangpraseurt,611,0.07088
+Wangpraseurt,612,0.07599
+Wangpraseurt,613,0.08108
+Wangpraseurt,614,0.08559
+Wangpraseurt,615,0.08986
+Wangpraseurt,616,0.0929
+Wangpraseurt,617,0.09697
+Wangpraseurt,618,0.10028
+Wangpraseurt,619,0.10433
+Wangpraseurt,620,0.10723
+Wangpraseurt,621,0.10986
+Wangpraseurt,622,0.11132
+Wangpraseurt,623,0.11243
+Wangpraseurt,624,0.11352
+Wangpraseurt,625,0.11475
+Wangpraseurt,626,0.11684
+Wangpraseurt,627,0.1189
+Wangpraseurt,628,0.12206
+Wangpraseurt,629,0.12455
+Wangpraseurt,630,0.12723
+Wangpraseurt,631,0.13087
+Wangpraseurt,632,0.13457
+Wangpraseurt,633,0.13824
+Wangpraseurt,634,0.14027
+Wangpraseurt,635,0.14354
+Wangpraseurt,636,0.1459
+Wangpraseurt,637,0.14778
+Wangpraseurt,638,0.14814
+Wangpraseurt,639,0.14776
+Wangpraseurt,640,0.14776
+Wangpraseurt,641,0.14764
+Wangpraseurt,642,0.14946
+Wangpraseurt,643,0.15271
+Wangpraseurt,644,0.15557
+Wangpraseurt,645,0.15707
+Wangpraseurt,646,0.15859
+Wangpraseurt,647,0.16093
+Wangpraseurt,648,0.16306
+Wangpraseurt,649,0.16354
+Wangpraseurt,650,0.16465
+Wangpraseurt,651,0.16769
+Wangpraseurt,652,0.17053
+Wangpraseurt,653,0.17428
+Wangpraseurt,654,0.17879
+Wangpraseurt,655,0.18626
+Wangpraseurt,656,0.19498
+Wangpraseurt,657,0.20781
+Wangpraseurt,658,0.22214
+Wangpraseurt,659,0.24125
+Wangpraseurt,660,0.26196
+Wangpraseurt,661,0.28709
+Wangpraseurt,662,0.313
+Wangpraseurt,663,0.34136
+Wangpraseurt,664,0.37055
+Wangpraseurt,665,0.40048
+Wangpraseurt,666,0.43208
+Wangpraseurt,667,0.46319
+Wangpraseurt,668,0.49161
+Wangpraseurt,669,0.5177
+Wangpraseurt,670,0.54079
+Wangpraseurt,671,0.56306
+Wangpraseurt,672,0.57993
+Wangpraseurt,673,0.59371
+Wangpraseurt,674,0.6002
+Wangpraseurt,675,0.5785
+Wangpraseurt,676,0.57466
+Wangpraseurt,677,0.56824
+Wangpraseurt,678,0.57963
+Wangpraseurt,679,0.56388
+Wangpraseurt,680,0.54315
+Wangpraseurt,681,0.51981
+Wangpraseurt,682,0.49245
+Wangpraseurt,683,0.46425
+Wangpraseurt,684,0.43501
+Wangpraseurt,685,0.40259
+Wangpraseurt,686,0.36749
+Wangpraseurt,687,0.3293
+Wangpraseurt,688,0.29172
+Wangpraseurt,689,0.25381
+Wangpraseurt,690,0.21378
+Wangpraseurt,691,0.17357
+Wangpraseurt,692,0.13448
+Wangpraseurt,693,0.09622
+Wangpraseurt,694,0.06012
+Wangpraseurt,695,0.02563
+Wangpraseurt,696,0
+Wangpraseurt,697,0
+Wangpraseurt,698,0
+Wangpraseurt,699,0
+Wangpraseurt,700,0
+Hennige_blue,400.345,0.831325301
+Hennige_blue,401.4454,0.835341365
+Hennige_blue,402.3626,0.835341365
+Hennige_blue,403.4628,0.83935743
+Hennige_blue,404.3793,0.847389558
+Hennige_blue,405.4791,0.855421687
+Hennige_blue,406.396,0.859437751
+Hennige_blue,407.4961,0.863453815
+Hennige_blue,408.4127,0.871485944
+Hennige_blue,409.5126,0.879518072
+Hennige_blue,410.4292,0.883534137
+Hennige_blue,411.3461,0.887550201
+Hennige_blue,412.4462,0.895582329
+Hennige_blue,413.3628,0.899598394
+Hennige_blue,414.4628,0.907630522
+Hennige_blue,415.3798,0.911646586
+Hennige_blue,416.4802,0.915662651
+Hennige_blue,417.3968,0.919678715
+Hennige_blue,418.4969,0.927710843
+Hennige_blue,419.4135,0.931726908
+Hennige_blue,420.5139,0.935742972
+Hennige_blue,421.4308,0.939759036
+Hennige_blue,422.3477,0.9437751
+Hennige_blue,423.448,0.947791165
+Hennige_blue,424.3649,0.951807229
+Hennige_blue,425.465,0.959839357
+Hennige_blue,426.3817,0.963855422
+Hennige_blue,427.4818,0.967871486
+Hennige_blue,428.3984,0.975903614
+Hennige_blue,429.4985,0.979919679
+Hennige_blue,430.4154,0.983935743
+Hennige_blue,431.5158,0.987951807
+Hennige_blue,432.4325,0.991967871
+Hennige_blue,433.3498,0.995983936
+Hennige_blue,434.4502,1
+Hennige_blue,435.3676,1
+Hennige_blue,436.4683,1
+Hennige_blue,437.3857,1
+Hennige_blue,438.4866,1
+Hennige_blue,439.4043,1
+Hennige_blue,440.5058,0.995983936
+Hennige_blue,441.4237,0.991967871
+Hennige_blue,442.5258,0.983935743
+Hennige_blue,443.444,0.975903614
+Hennige_blue,444.3622,0.97188755
+Hennige_blue,445.464,0.963855422
+Hennige_blue,446.3822,0.959839357
+Hennige_blue,447.4837,0.955823293
+Hennige_blue,448.4017,0.951807229
+Hennige_blue,449.5028,0.951807229
+Hennige_blue,450.4203,0.951807229
+Hennige_blue,451.5215,0.947791165
+Hennige_blue,452.4389,0.947791165
+Hennige_blue,453.3563,0.947791165
+Hennige_blue,454.4572,0.947791165
+Hennige_blue,455.3747,0.947791165
+Hennige_blue,456.4753,0.947791165
+Hennige_blue,457.3928,0.947791165
+Hennige_blue,458.4934,0.951807229
+Hennige_blue,459.4108,0.951807229
+Hennige_blue,460.5118,0.951807229
+Hennige_blue,461.4295,0.947791165
+Hennige_blue,462.3474,0.9437751
+Hennige_blue,463.4494,0.939759036
+Hennige_blue,464.3677,0.931726908
+Hennige_blue,465.4697,0.923694779
+Hennige_blue,466.3879,0.919678715
+Hennige_blue,467.4899,0.911646586
+Hennige_blue,468.4082,0.903614458
+Hennige_blue,469.511,0.891566265
+Hennige_blue,470.4309,0.871485944
+Hennige_blue,471.3502,0.859437751
+Hennige_blue,472.4533,0.843373494
+Hennige_blue,473.3723,0.831325301
+Hennige_blue,474.4752,0.815261044
+Hennige_blue,475.3945,0.803212851
+Hennige_blue,476.4976,0.787148594
+Hennige_blue,477.4166,0.775100402
+Hennige_blue,478.5194,0.763052209
+Hennige_blue,479.4385,0.751004016
+Hennige_blue,480.3573,0.738955823
+Hennige_blue,481.4586,0.734939759
+Hennige_blue,482.377,0.730923695
+Hennige_blue,483.4785,0.726907631
+Hennige_blue,484.3963,0.722891566
+Hennige_blue,485.4979,0.718875502
+Hennige_blue,486.4159,0.714859438
+Hennige_blue,487.5173,0.710843373
+Hennige_blue,488.435,0.706827309
+Hennige_blue,489.3527,0.706827309
+Hennige_blue,490.4542,0.702811245
+Hennige_blue,491.3719,0.698795181
+Hennige_blue,492.4734,0.694779116
+Hennige_blue,493.3913,0.690763052
+Hennige_blue,494.4931,0.686746988
+Hennige_blue,495.4113,0.678714859
+Hennige_blue,496.5133,0.670682731
+Hennige_blue,497.4315,0.666666667
+Hennige_blue,498.3501,0.658634538
+Hennige_blue,499.4526,0.646586345
+Hennige_blue,500.3721,0.630522088
+Hennige_blue,501.4756,0.614457831
+Hennige_blue,502.3949,0.598393574
+Hennige_blue,503.498,0.582329317
+Hennige_blue,504.4165,0.574297189
+Hennige_blue,505.5182,0.570281124
+Hennige_blue,506.4373,0.558232932
+Hennige_blue,507.3558,0.550200803
+Hennige_blue,508.4581,0.53815261
+Hennige_blue,509.3763,0.534136546
+Hennige_blue,510.4783,0.526104418
+Hennige_blue,511.3968,0.518072289
+Hennige_blue,512.499,0.510040161
+Hennige_blue,513.4176,0.502008032
+Hennige_blue,514.5199,0.489959839
+Hennige_blue,515.4384,0.481927711
+Hennige_blue,516.3567,0.477911647
+Hennige_blue,517.4588,0.465863454
+Hennige_blue,518.3772,0.46184739
+Hennige_blue,519.4792,0.453815261
+Hennige_blue,520.3977,0.445783133
+Hennige_blue,521.4997,0.437751004
+Hennige_blue,522.4182,0.429718876
+Hennige_blue,523.5202,0.421686747
+Hennige_blue,524.4385,0.413654618
+Hennige_blue,525.3567,0.409638554
+Hennige_blue,526.4586,0.401590361
+Hennige_blue,527.377,0.395654618
+Hennige_blue,528.4784,0.391690763
+Hennige_blue,529.3967,0.385751004
+Hennige_blue,530.4981,0.381791165
+Hennige_blue,531.4158,0.379807229
+Hennige_blue,532.5175,0.37386747
+Hennige_blue,533.4358,0.367931727
+Hennige_blue,534.3538,0.363971888
+Hennige_blue,535.4552,0.360008032
+Hennige_blue,536.3729,0.358024096
+Hennige_blue,537.4744,0.354064257
+Hennige_blue,538.3927,0.348124498
+Hennige_blue,539.4944,0.342184739
+Hennige_blue,540.4123,0.3382249
+Hennige_blue,541.5138,0.33426506
+Hennige_blue,542.4321,0.328325301
+Hennige_blue,543.3503,0.322389558
+Hennige_blue,544.452,0.316449799
+Hennige_blue,545.3703,0.31051004
+Hennige_blue,546.4723,0.302594378
+Hennige_blue,547.3908,0.294678715
+Hennige_blue,548.4931,0.284783133
+Hennige_blue,549.4116,0.27686747
+Hennige_blue,550.5135,0.268951807
+Hennige_blue,551.4321,0.261036145
+Hennige_blue,552.3504,0.255100402
+Hennige_blue,553.4518,0.251136546
+Hennige_blue,554.3698,0.247176707
+Hennige_blue,555.4715,0.241236948
+Hennige_blue,556.3892,0.239253012
+Hennige_blue,557.4907,0.235293173
+Hennige_blue,558.4087,0.231333333
+Hennige_blue,559.5101,0.227369478
+Hennige_blue,560.4281,0.223409639
+Hennige_blue,561.3461,0.219449799
+Hennige_blue,562.4475,0.215485944
+Hennige_blue,563.3655,0.211526104
+Hennige_blue,564.467,0.207566265
+Hennige_blue,565.3849,0.20360241
+Hennige_blue,566.4861,0.201618474
+Hennige_blue,567.4038,0.199634538
+Hennige_blue,568.5053,0.195674699
+Hennige_blue,569.423,0.193690763
+Hennige_blue,570.5242,0.191706827
+Hennige_blue,571.4416,0.191702811
+Hennige_blue,572.3593,0.189718876
+Hennige_blue,573.4602,0.189710843
+Hennige_blue,574.3777,0.189706827
+Hennige_blue,575.4786,0.189698795
+Hennige_blue,576.396,0.189690763
+Hennige_blue,577.4969,0.189686747
+Hennige_blue,578.4144,0.189678715
+Hennige_blue,579.5152,0.189670683
+Hennige_blue,580.4327,0.189666667
+Hennige_blue,581.3498,0.191638554
+Hennige_blue,582.4508,0.191630522
+Hennige_blue,583.3679,0.19360241
+Hennige_blue,584.4686,0.195574297
+Hennige_blue,585.386,0.195566265
+Hennige_blue,586.487,0.195558233
+Hennige_blue,587.4043,0.195554217
+Hennige_blue,588.5053,0.195546185
+Hennige_blue,589.4227,0.195542169
+Hennige_blue,590.5239,0.193558233
+Hennige_blue,591.4416,0.191574297
+Hennige_blue,592.3593,0.189590361
+Hennige_blue,593.4607,0.185630522
+Hennige_blue,594.3785,0.183646586
+Hennige_blue,595.4797,0.181662651
+Hennige_blue,596.3974,0.179678715
+Hennige_blue,597.4986,0.177694779
+Hennige_blue,598.416,0.177686747
+Hennige_blue,599.5171,0.175702811
+Hennige_blue,600.4349,0.173718876
+Hennige_blue,601.3523,0.173714859
+Hennige_blue,602.4535,0.171730924
+Hennige_blue,603.371,0.171722892
+Hennige_blue,604.4719,0.171714859
+Hennige_blue,605.3888,0.175666667
+Hennige_blue,606.4889,0.181590361
+Hennige_blue,607.406,0.183562249
+Hennige_blue,608.5064,0.18751004
+Hennige_blue,609.4236,0.189481928
+Hennige_blue,610.5242,0.191453815
+Hennige_blue,611.4414,0.193421687
+Hennige_blue,612.3585,0.195393574
+Hennige_blue,613.4588,0.199341365
+Hennige_blue,614.3761,0.201313253
+Hennige_blue,615.4767,0.203285141
+Hennige_blue,616.3939,0.205257028
+Hennige_blue,617.4945,0.2072249
+Hennige_blue,618.4114,0.211176707
+Hennige_blue,619.5118,0.215124498
+Hennige_blue,620.429,0.217096386
+Hennige_blue,621.3461,0.219068273
+Hennige_blue,622.4468,0.221036145
+Hennige_blue,623.3639,0.223008032
+Hennige_blue,624.4643,0.226955823
+Hennige_blue,625.3817,0.226951807
+Hennige_blue,626.4824,0.228919679
+Hennige_blue,627.3998,0.228915663
+Hennige_blue,628.5005,0.230883534
+Hennige_blue,629.4179,0.230879518
+Hennige_blue,630.5188,0.230871486
+Hennige_blue,631.4362,0.23086747
+Hennige_blue,632.3537,0.230859438
+Hennige_blue,633.4546,0.230851406
+Hennige_blue,634.3719,0.23084739
+Hennige_blue,635.4729,0.230839357
+Hennige_blue,636.3904,0.230835341
+Hennige_blue,637.4913,0.230827309
+Hennige_blue,638.4087,0.230823293
+Hennige_blue,639.5096,0.230815261
+Hennige_blue,640.4271,0.230807229
+Hennige_blue,641.5283,0.228823293
+Hennige_blue,642.4457,0.228819277
+Hennige_blue,643.3631,0.228811245
+Hennige_blue,644.4641,0.228807229
+Hennige_blue,645.3815,0.228799197
+Hennige_blue,646.4824,0.228791165
+Hennige_blue,647.3998,0.228787149
+Hennige_blue,648.5002,0.23273494
+Hennige_blue,649.4171,0.236682731
+Hennige_blue,650.5171,0.242610442
+Hennige_blue,651.433,0.254465863
+Hennige_blue,652.3491,0.264349398
+Hennige_blue,653.4481,0.278184739
+Hennige_blue,654.3634,0.293995984
+Hennige_blue,655.4607,0.319694779
+Hennige_blue,656.3749,0.343417671
+Hennige_blue,657.4702,0.384935743
+Hennige_blue,658.3835,0.413654618
+Hennige_blue,659.4788,0.457831325
+Hennige_blue,660.3919,0.485943775
+Hennige_blue,661.3063,0.510040161
+Hennige_blue,662.4021,0.546184739
+Hennige_blue,663.3171,0.56626506
+Hennige_blue,664.415,0.586345382
+Hennige_blue,665.3295,0.606425703
+Hennige_blue,666.4271,0.630522088
+Hennige_blue,667.3432,0.642570281
+Hennige_blue,668.4433,0.646586345
+Hennige_blue,669.3605,0.65060241
+Hennige_blue,670.4614,0.65060241
+Hennige_blue,671.3796,0.642570281
+Hennige_blue,672.2982,0.634538153
+Hennige_blue,673.4018,0.614457831
+Hennige_blue,674.3214,0.598393574
+Hennige_blue,675.4253,0.578313253
+Hennige_blue,676.3457,0.558232932
+Hennige_blue,677.4504,0.530120482
+Hennige_blue,678.3724,0.493975904
+Hennige_blue,679.2937,0.465863454
+Hennige_blue,680.3989,0.437751004
+Hennige_blue,681.3199,0.409638554
+Hennige_blue,682.4278,0.359072289
+Hennige_blue,683.3493,0.329405622
+Hennige_blue,684.4554,0.291827309
+Hennige_blue,685.3785,0.250297189
+Hennige_blue,686.3008,0.214698795
+Hennige_blue,687.4064,0.181076305
+Hennige_blue,688.3279,0.151409639
+Hennige_blue,689.4323,0.125694779
+Hennige_blue,690.3514,0.113823293
+Hennige_blue,691.4542,0.099975904
+Hennige_blue,692.373,0.090084337
+Hennige_blue,693.292,0.078212851
+Hennige_blue,694.394,0.070297189
+Hennige_blue,695.3126,0.062381526
+Hennige_blue,696.4143,0.056441767
+Hennige_blue,697.3325,0.050506024
+Hennige_blue,698.434,0.046542169
+Hennige_blue,699.3517,0.044558233
+Hennige_blue,700.4534,0.038619679
+Hennige_blue,701.3714,0.034659036
+Hennige_blue,702.2894,0.030698795
+Hennige_blue,703.3908,0.026736948
+Hennige_blue,704.3085,0.024753414
+Hennige_blue,705.4097,0.022769076
+Hennige_blue,706.3274,0.020785944
+Hennige_blue,707.4283,0.020779116
+Hennige_blue,708.3458,0.020773092
+Hennige_blue,709.4466,0.020765863
+Hennige_red,400.3857,0.884250474
+Hennige_red,401.4855,0.888045541
+Hennige_red,402.4027,0.888045541
+Hennige_red,403.5017,0.895635674
+Hennige_red,404.4161,0.90512334
+Hennige_red,405.5157,0.910815939
+Hennige_red,406.4329,0.910815939
+Hennige_red,407.5332,0.912713472
+Hennige_red,408.4493,0.918406072
+Hennige_red,409.5467,0.929791271
+Hennige_red,410.4612,0.941176471
+Hennige_red,411.3786,0.941176471
+Hennige_red,412.4798,0.939278937
+Hennige_red,413.3969,0.941176471
+Hennige_red,414.4952,0.948766603
+Hennige_red,415.4118,0.95256167
+Hennige_red,416.5127,0.95256167
+Hennige_red,417.4299,0.95256167
+Hennige_red,418.53,0.956356736
+Hennige_red,419.4466,0.958254269
+Hennige_red,420.5464,0.962049336
+Hennige_red,421.4633,0.963946869
+Hennige_red,422.3805,0.965844402
+Hennige_red,423.4811,0.965844402
+Hennige_red,424.398,0.967741935
+Hennige_red,425.4981,0.971537002
+Hennige_red,426.415,0.973434535
+Hennige_red,427.5151,0.975332068
+Hennige_red,428.4317,0.979127135
+Hennige_red,429.5312,0.982922201
+Hennige_red,430.4474,0.988614801
+Hennige_red,431.5464,0.9943074
+Hennige_red,432.4622,1
+Hennige_red,433.3796,1
+Hennige_red,434.4808,1
+Hennige_red,435.3982,1
+Hennige_red,436.4994,0.998102467
+Hennige_red,437.4174,0.996204934
+Hennige_red,438.5197,0.992409867
+Hennige_red,439.4382,0.988614801
+Hennige_red,440.5415,0.979127135
+Hennige_red,441.4609,0.973434535
+Hennige_red,442.381,0.963946869
+Hennige_red,443.4849,0.95256167
+Hennige_red,444.4045,0.944971537
+Hennige_red,445.5084,0.935483871
+Hennige_red,446.4283,0.927893738
+Hennige_red,447.5303,0.924098672
+Hennige_red,448.4485,0.920303605
+Hennige_red,449.3665,0.918406072
+Hennige_red,450.468,0.916508539
+Hennige_red,451.3859,0.914611006
+Hennige_red,452.487,0.914611006
+Hennige_red,453.4048,0.912713472
+Hennige_red,454.506,0.912713472
+Hennige_red,455.424,0.910815939
+Hennige_red,456.5252,0.908918406
+Hennige_red,457.4429,0.908918406
+Hennige_red,458.5441,0.907020873
+Hennige_red,459.4618,0.907020873
+Hennige_red,460.3795,0.90512334
+Hennige_red,461.4812,0.903225806
+Hennige_red,462.3995,0.89943074
+Hennige_red,463.502,0.89373814
+Hennige_red,464.4216,0.886148008
+Hennige_red,465.5255,0.876660342
+Hennige_red,466.4443,0.872865275
+Hennige_red,467.3644,0.863377609
+Hennige_red,468.4681,0.853889943
+Hennige_red,469.3877,0.84629981
+Hennige_red,470.4918,0.834914611
+Hennige_red,471.4136,0.819734345
+Hennige_red,472.5183,0.806451613
+Hennige_red,473.4396,0.79316888
+Hennige_red,474.5448,0.777988615
+Hennige_red,475.4641,0.772296015
+Hennige_red,476.3843,0.762808349
+Hennige_red,477.4882,0.75142315
+Hennige_red,478.4086,0.741935484
+Hennige_red,479.5128,0.730550285
+Hennige_red,480.4321,0.724857685
+Hennige_red,481.5354,0.715370019
+Hennige_red,482.454,0.711574953
+Hennige_red,483.3728,0.707779886
+Hennige_red,484.4756,0.700189753
+Hennige_red,485.3938,0.69829222
+Hennige_red,486.4955,0.694497154
+Hennige_red,487.4138,0.69259962
+Hennige_red,488.5154,0.688804554
+Hennige_red,489.4346,0.685009488
+Hennige_red,490.5366,0.681214421
+Hennige_red,491.4559,0.673624288
+Hennige_red,492.3755,0.666034156
+Hennige_red,493.4788,0.658444023
+Hennige_red,494.3985,0.65085389
+Hennige_red,495.5024,0.639468691
+Hennige_red,496.4217,0.633776091
+Hennige_red,497.5255,0.624288425
+Hennige_red,498.4457,0.614800759
+Hennige_red,499.3672,0.599620493
+Hennige_red,500.4719,0.586337761
+Hennige_red,501.3926,0.574952562
+Hennige_red,502.4979,0.561669829
+Hennige_red,503.4175,0.554079696
+Hennige_red,504.5211,0.54459203
+Hennige_red,505.4418,0.533206831
+Hennige_red,506.3636,0.518026565
+Hennige_red,507.468,0.504743833
+Hennige_red,508.389,0.493358634
+Hennige_red,509.494,0.480075901
+Hennige_red,510.4136,0.472485769
+Hennige_red,511.5185,0.457305503
+Hennige_red,512.4379,0.451612903
+Hennige_red,513.541,0.44402277
+Hennige_red,514.4611,0.434535104
+Hennige_red,515.381,0.426944972
+Hennige_red,516.4849,0.415559772
+Hennige_red,517.4042,0.409867173
+Hennige_red,518.5093,0.394686907
+Hennige_red,519.4285,0.388994307
+Hennige_red,520.5308,0.383301708
+Hennige_red,521.4493,0.379506641
+Hennige_red,522.3692,0.371916509
+Hennige_red,523.4723,0.364326376
+Hennige_red,524.391,0.360531309
+Hennige_red,525.4933,0.35483871
+Hennige_red,526.4121,0.351043643
+Hennige_red,527.5149,0.34345351
+Hennige_red,528.4348,0.335863378
+Hennige_red,529.5368,0.332068311
+Hennige_red,530.4553,0.328273245
+Hennige_red,531.3738,0.324478178
+Hennige_red,532.4761,0.318785579
+Hennige_red,533.3949,0.314990512
+Hennige_red,534.4971,0.309297913
+Hennige_red,535.4162,0.305502846
+Hennige_red,536.5185,0.299810247
+Hennige_red,537.4367,0.297912713
+Hennige_red,538.5393,0.292220114
+Hennige_red,539.4583,0.286527514
+Hennige_red,540.3769,0.282732448
+Hennige_red,541.4788,0.278937381
+Hennige_red,542.3971,0.275142315
+Hennige_red,543.4994,0.271347249
+Hennige_red,544.4176,0.267552182
+Hennige_red,545.5204,0.261859583
+Hennige_red,546.4386,0.258064516
+Hennige_red,547.541,0.25426945
+Hennige_red,548.4595,0.250474383
+Hennige_red,549.3788,0.244781784
+Hennige_red,550.4805,0.240986717
+Hennige_red,551.3985,0.239089184
+Hennige_red,552.5008,0.235294118
+Hennige_red,553.4193,0.231499051
+Hennige_red,554.5213,0.227703985
+Hennige_red,555.4395,0.223908918
+Hennige_red,556.5415,0.220113852
+Hennige_red,557.4603,0.216318786
+Hennige_red,558.378,0.214421252
+Hennige_red,559.4798,0.212523719
+Hennige_red,560.3982,0.208728653
+Hennige_red,561.5003,0.204933586
+Hennige_red,562.4188,0.20113852
+Hennige_red,563.5203,0.199240987
+Hennige_red,564.4382,0.197343454
+Hennige_red,565.5396,0.19544592
+Hennige_red,566.4574,0.193548387
+Hennige_red,567.3751,0.193548387
+Hennige_red,568.476,0.193548387
+Hennige_red,569.3937,0.191650854
+Hennige_red,570.4949,0.191650854
+Hennige_red,571.4129,0.189611006
+Hennige_red,572.5141,0.188673624
+Hennige_red,573.4318,0.187736243
+Hennige_red,574.533,0.186798861
+Hennige_red,575.4504,0.186795066
+Hennige_red,576.3681,0.185857685
+Hennige_red,577.4689,0.185855787
+Hennige_red,578.3865,0.185851992
+Hennige_red,579.4876,0.184914611
+Hennige_red,580.4051,0.184912713
+Hennige_red,581.5063,0.183973435
+Hennige_red,582.424,0.183037951
+Hennige_red,583.5252,0.182100569
+Hennige_red,584.4426,0.182096774
+Hennige_red,585.5434,0.182092979
+Hennige_red,586.4609,0.182091082
+Hennige_red,587.3784,0.182087287
+Hennige_red,588.4793,0.182085389
+Hennige_red,589.397,0.181148008
+Hennige_red,590.4987,0.178341556
+Hennige_red,591.417,0.175535104
+Hennige_red,592.5187,0.17273055
+Hennige_red,593.4369,0.169924099
+Hennige_red,594.5387,0.167117647
+Hennige_red,595.4567,0.165246679
+Hennige_red,596.3744,0.164309298
+Hennige_red,597.4755,0.163371917
+Hennige_red,598.3935,0.161500949
+Hennige_red,599.495,0.159628083
+Hennige_red,600.4127,0.158690702
+Hennige_red,601.5139,0.157753321
+Hennige_red,602.4313,0.157751423
+Hennige_red,603.5325,0.156814042
+Hennige_red,604.4499,0.156810247
+Hennige_red,605.3676,0.155874763
+Hennige_red,606.4685,0.155870968
+Hennige_red,607.386,0.155867173
+Hennige_red,608.4866,0.156798861
+Hennige_red,609.4035,0.158664137
+Hennige_red,610.5042,0.159595825
+Hennige_red,611.4213,0.160527514
+Hennige_red,612.5217,0.162392789
+Hennige_red,613.4389,0.163324478
+Hennige_red,614.5394,0.164254269
+Hennige_red,615.4569,0.164252372
+Hennige_red,616.374,0.165184061
+Hennige_red,617.475,0.165180266
+Hennige_red,618.3921,0.166111954
+Hennige_red,619.4931,0.166108159
+Hennige_red,620.4102,0.167039848
+Hennige_red,621.5112,0.167036053
+Hennige_red,622.4283,0.167967742
+Hennige_red,623.5293,0.167963947
+Hennige_red,624.4466,0.167962049
+Hennige_red,625.3641,0.167960152
+Hennige_red,626.465,0.167956357
+Hennige_red,627.3825,0.167952562
+Hennige_red,628.4834,0.167950664
+Hennige_red,629.4008,0.167946869
+Hennige_red,630.5023,0.166075901
+Hennige_red,631.42,0.16513852
+Hennige_red,632.5213,0.163265655
+Hennige_red,633.4389,0.163263757
+Hennige_red,634.5398,0.163259962
+Hennige_red,635.457,0.164191651
+Hennige_red,636.3744,0.164189753
+Hennige_red,637.4753,0.164185958
+Hennige_red,638.3927,0.164182163
+Hennige_red,639.4939,0.163244782
+Hennige_red,640.4114,0.163242884
+Hennige_red,641.5128,0.161370019
+Hennige_red,642.4304,0.160432638
+Hennige_red,643.5316,0.159495256
+Hennige_red,644.4494,0.158559772
+Hennige_red,645.3668,0.158555977
+Hennige_red,646.468,0.157618596
+Hennige_red,647.3855,0.157616698
+Hennige_red,648.4864,0.157612903
+Hennige_red,649.4033,0.159478178
+Hennige_red,650.5037,0.161343454
+Hennige_red,651.4203,0.164144213
+Hennige_red,652.5198,0.168812144
+Hennige_red,653.4335,0.181888046
+Hennige_red,654.5301,0.197343454
+Hennige_red,655.4442,0.208728653
+Hennige_red,656.3592,0.216318786
+Hennige_red,657.4564,0.229601518
+Hennige_red,658.3705,0.240986717
+Hennige_red,659.4658,0.259962049
+Hennige_red,660.3775,0.280834915
+Hennige_red,661.4746,0.292220114
+Hennige_red,662.3847,0.318785579
+Hennige_red,663.2978,0.333965844
+Hennige_red,664.3931,0.352941176
+Hennige_red,665.3064,0.366223909
+Hennige_red,666.4022,0.385199241
+Hennige_red,667.3158,0.398481973
+Hennige_red,668.4127,0.411764706
+Hennige_red,669.329,0.415559772
+Hennige_red,670.43,0.415559772
+Hennige_red,671.3477,0.413662239
+Hennige_red,672.2659,0.411764706
+Hennige_red,673.369,0.404174573
+Hennige_red,674.2897,0.392789374
+Hennige_red,675.3933,0.383301708
+Hennige_red,676.3136,0.373814042
+Hennige_red,677.4192,0.356736243
+Hennige_red,678.341,0.34345351
+Hennige_red,679.2666,0.314990512
+Hennige_red,680.3729,0.29601518
+Hennige_red,681.2979,0.269449715
+Hennige_red,682.4135,0.220113852
+Hennige_red,683.3347,0.20683112
+Hennige_red,684.4405,0.18926945
+Hennige_red,685.3623,0.174318786
+Hennige_red,686.2865,0.150958254
+Hennige_red,687.3953,0.12386148
+Hennige_red,688.3165,0.110777989
+Hennige_red,689.4217,0.095825427
+Hennige_red,690.3427,0.083677419
+Hennige_red,691.4471,0.071529412
+Hennige_red,692.3665,0.064986717
+Hennige_red,693.2854,0.059377609
+Hennige_red,694.3875,0.055637571
+Hennige_red,695.3058,0.05283112
+Hennige_red,696.408,0.048157495
+Hennige_red,697.3266,0.044417457
+Hennige_red,698.4283,0.041611006
+Hennige_red,699.3468,0.037870968
+Hennige_red,700.2648,0.036
+Hennige_red,701.3665,0.033193548
+Hennige_red,702.2845,0.031322581
+Hennige_red,703.386,0.029449715
+Hennige_red,704.3039,0.027578748
+Hennige_red,705.4051,0.026641366
+Hennige_red,706.3228,0.025703985
+Hennige_red,707.4243,0.02383112
+Hennige_red,708.342,0.022895636
+Hennige_red,709.4432,0.021958254
+Hennige_green,400.2979,0.782841823
+Hennige_green,401.398,0.788203753
+Hennige_green,402.3138,0.796246649
+Hennige_green,403.4136,0.801608579
+Hennige_green,404.3286,0.81233244
+Hennige_green,405.4271,0.8230563
+Hennige_green,406.3426,0.833780161
+Hennige_green,407.4414,0.844504021
+Hennige_green,408.3577,0.849865952
+Hennige_green,409.4573,0.855227882
+Hennige_green,410.3725,0.865951743
+Hennige_green,411.2881,0.876675603
+Hennige_green,412.3879,0.882037534
+Hennige_green,413.3045,0.884718499
+Hennige_green,414.4043,0.890080429
+Hennige_green,415.321,0.895442359
+Hennige_green,416.4208,0.90080429
+Hennige_green,417.3374,0.903485255
+Hennige_green,418.4373,0.908847185
+Hennige_green,419.3536,0.914209115
+Hennige_green,420.4534,0.919571046
+Hennige_green,421.3698,0.924932976
+Hennige_green,422.4696,0.930294906
+Hennige_green,423.386,0.935656836
+Hennige_green,424.3023,0.941018767
+Hennige_green,425.4022,0.943699732
+Hennige_green,426.3182,0.951742627
+Hennige_green,427.4175,0.959785523
+Hennige_green,428.3338,0.965147453
+Hennige_green,429.4334,0.973190349
+Hennige_green,430.3495,0.978552279
+Hennige_green,431.4491,0.986595174
+Hennige_green,432.3654,0.989276139
+Hennige_green,433.4655,0.99463807
+Hennige_green,434.3822,0.997319035
+Hennige_green,435.299,1
+Hennige_green,436.4,1
+Hennige_green,437.3174,1
+Hennige_green,438.4186,1
+Hennige_green,439.3368,0.99463807
+Hennige_green,440.4394,0.986595174
+Hennige_green,441.3584,0.981233244
+Hennige_green,442.4621,0.967828418
+Hennige_green,443.3811,0.959785523
+Hennige_green,444.3002,0.951742627
+Hennige_green,445.4027,0.943699732
+Hennige_green,446.321,0.938337802
+Hennige_green,447.423,0.932975871
+Hennige_green,448.3412,0.930294906
+Hennige_green,449.4432,0.924932976
+Hennige_green,450.3609,0.922252011
+Hennige_green,451.4621,0.922252011
+Hennige_green,452.3795,0.922252011
+Hennige_green,453.297,0.922252011
+Hennige_green,454.3979,0.922252011
+Hennige_green,455.3153,0.922252011
+Hennige_green,456.416,0.922252011
+Hennige_green,457.3334,0.922252011
+Hennige_green,458.434,0.924932976
+Hennige_green,459.3515,0.924932976
+Hennige_green,460.4529,0.922252011
+Hennige_green,461.3706,0.919571046
+Hennige_green,462.2886,0.91689008
+Hennige_green,463.3906,0.91152815
+Hennige_green,464.3091,0.90616622
+Hennige_green,465.412,0.898123324
+Hennige_green,466.3317,0.887399464
+Hennige_green,467.4352,0.873994638
+Hennige_green,468.3542,0.865951743
+Hennige_green,469.4573,0.855227882
+Hennige_green,470.378,0.839142091
+Hennige_green,471.2987,0.8230563
+Hennige_green,472.4034,0.804289544
+Hennige_green,473.3237,0.790884718
+Hennige_green,474.4283,0.774798928
+Hennige_green,475.3489,0.758713137
+Hennige_green,476.4534,0.739946381
+Hennige_green,477.3733,0.72922252
+Hennige_green,478.2929,0.71849866
+Hennige_green,479.3961,0.707774799
+Hennige_green,480.3155,0.697050938
+Hennige_green,481.4178,0.691689008
+Hennige_green,482.3357,0.689008043
+Hennige_green,483.4378,0.683646113
+Hennige_green,484.3558,0.680965147
+Hennige_green,485.4572,0.678284182
+Hennige_green,486.3752,0.675603217
+Hennige_green,487.2934,0.670241287
+Hennige_green,488.3952,0.667560322
+Hennige_green,489.3134,0.662198391
+Hennige_green,490.4152,0.659517426
+Hennige_green,491.3331,0.656836461
+Hennige_green,492.4351,0.651474531
+Hennige_green,493.3537,0.646112601
+Hennige_green,494.4573,0.632707775
+Hennige_green,495.3769,0.621983914
+Hennige_green,496.2965,0.611260054
+Hennige_green,497.4001,0.597855228
+Hennige_green,498.3197,0.587131367
+Hennige_green,499.4239,0.571045576
+Hennige_green,500.3443,0.557640751
+Hennige_green,501.4487,0.538873995
+Hennige_green,502.3683,0.530831099
+Hennige_green,503.2882,0.517426273
+Hennige_green,504.3918,0.504021448
+Hennige_green,505.3112,0.495978552
+Hennige_green,506.414,0.485254692
+Hennige_green,507.3333,0.477211796
+Hennige_green,508.4372,0.461126005
+Hennige_green,509.3574,0.44772118
+Hennige_green,510.4607,0.436997319
+Hennige_green,511.38,0.428954424
+Hennige_green,512.2995,0.418230563
+Hennige_green,513.4027,0.407506702
+Hennige_green,514.3221,0.396782842
+Hennige_green,515.4249,0.388739946
+Hennige_green,516.3442,0.378016086
+Hennige_green,517.4466,0.36997319
+Hennige_green,518.3647,0.367292225
+Hennige_green,519.4675,0.35924933
+Hennige_green,520.3862,0.353887399
+Hennige_green,521.3048,0.348525469
+Hennige_green,522.4068,0.343163539
+Hennige_green,523.3251,0.337801609
+Hennige_green,524.4268,0.335120643
+Hennige_green,525.3453,0.329758713
+Hennige_green,526.4476,0.321715818
+Hennige_green,527.366,0.316353887
+Hennige_green,528.4681,0.310991957
+Hennige_green,529.3864,0.308310992
+Hennige_green,530.3049,0.302949062
+Hennige_green,531.4069,0.297587131
+Hennige_green,532.3249,0.294906166
+Hennige_green,533.4266,0.289544236
+Hennige_green,534.3448,0.286863271
+Hennige_green,535.4471,0.278820375
+Hennige_green,536.3656,0.273458445
+Hennige_green,537.4679,0.268040214
+Hennige_green,538.386,0.264075067
+Hennige_green,539.3044,0.26010992
+Hennige_green,540.4061,0.256147453
+Hennige_green,541.3244,0.252182306
+Hennige_green,542.4261,0.248217158
+Hennige_green,543.3443,0.244254692
+Hennige_green,544.4458,0.241608579
+Hennige_green,545.3638,0.238965147
+Hennige_green,546.4655,0.235
+Hennige_green,547.3838,0.231037534
+Hennige_green,548.302,0.227072386
+Hennige_green,549.404,0.221788204
+Hennige_green,550.3228,0.215182306
+Hennige_green,551.4251,0.208579088
+Hennige_green,552.3436,0.203294906
+Hennige_green,553.4456,0.198010724
+Hennige_green,554.3636,0.195367292
+Hennige_green,555.4653,0.191402145
+Hennige_green,556.3835,0.187436997
+Hennige_green,557.3014,0.184793566
+Hennige_green,558.4032,0.180828418
+Hennige_green,559.3215,0.176863271
+Hennige_green,560.4232,0.172900804
+Hennige_green,561.3412,0.170254692
+Hennige_green,562.4429,0.166292225
+Hennige_green,563.3612,0.162327078
+Hennige_green,564.4626,0.159683646
+Hennige_green,565.3801,0.159678284
+Hennige_green,566.2974,0.159675603
+Hennige_green,567.3987,0.158351206
+Hennige_green,568.3164,0.15702681
+Hennige_green,569.4173,0.157021448
+Hennige_green,570.3347,0.157016086
+Hennige_green,571.4359,0.155691689
+Hennige_green,572.3534,0.155689008
+Hennige_green,573.4543,0.155683646
+Hennige_green,574.3717,0.155680965
+Hennige_green,575.2891,0.155675603
+Hennige_green,576.3901,0.155670241
+Hennige_green,577.3075,0.15566756
+Hennige_green,578.4083,0.155662198
+Hennige_green,579.3256,0.156978552
+Hennige_green,580.4264,0.15697319
+Hennige_green,581.3436,0.158289544
+Hennige_green,582.4443,0.159605898
+Hennige_green,583.3617,0.159603217
+Hennige_green,584.4626,0.159597855
+Hennige_green,585.3798,0.160914209
+Hennige_green,586.2972,0.160908847
+Hennige_green,587.3982,0.160903485
+Hennige_green,588.3155,0.160900804
+Hennige_green,589.4162,0.162217158
+Hennige_green,590.3338,0.160892761
+Hennige_green,591.4354,0.158246649
+Hennige_green,592.3536,0.154284182
+Hennige_green,593.4551,0.15163807
+Hennige_green,594.3731,0.148994638
+Hennige_green,595.2908,0.147670241
+Hennige_green,596.3921,0.14502681
+Hennige_green,597.3105,0.141061662
+Hennige_green,598.4117,0.139737265
+Hennige_green,599.3294,0.138412869
+Hennige_green,600.4306,0.137088472
+Hennige_green,601.3479,0.137085791
+Hennige_green,602.4489,0.137080429
+Hennige_green,603.3664,0.137075067
+Hennige_green,604.4673,0.137072386
+Hennige_green,605.3844,0.13838874
+Hennige_green,606.3016,0.139705094
+Hennige_green,607.402,0.142340483
+Hennige_green,608.3191,0.143654155
+Hennige_green,609.4198,0.144970509
+Hennige_green,610.3367,0.147605898
+Hennige_green,611.437,0.150241287
+Hennige_green,612.3538,0.152879357
+Hennige_green,613.4543,0.155514745
+Hennige_green,614.3715,0.156831099
+Hennige_green,615.2889,0.156825737
+Hennige_green,616.3895,0.158142091
+Hennige_green,617.3067,0.159458445
+Hennige_green,618.4074,0.160772118
+Hennige_green,619.3245,0.162088472
+Hennige_green,620.4252,0.163404826
+Hennige_green,621.3423,0.16472118
+Hennige_green,622.443,0.166034853
+Hennige_green,623.3604,0.166032172
+Hennige_green,624.4611,0.167345845
+Hennige_green,625.3785,0.167343164
+Hennige_green,626.2959,0.167340483
+Hennige_green,627.3968,0.167335121
+Hennige_green,628.3143,0.167329759
+Hennige_green,629.4155,0.166005362
+Hennige_green,630.3329,0.166002681
+Hennige_green,631.4338,0.165997319
+Hennige_green,632.3512,0.165994638
+Hennige_green,633.4522,0.165989276
+Hennige_green,634.3696,0.165983914
+Hennige_green,635.287,0.165981233
+Hennige_green,636.3879,0.165975871
+Hennige_green,637.3054,0.16597319
+Hennige_green,638.4062,0.165967828
+Hennige_green,639.3237,0.165962466
+Hennige_green,640.4245,0.165959786
+Hennige_green,641.3421,0.165954424
+Hennige_green,642.4433,0.164630027
+Hennige_green,643.361,0.16330563
+Hennige_green,644.4619,0.163302949
+Hennige_green,645.3793,0.163297587
+Hennige_green,646.2965,0.164613941
+Hennige_green,647.3971,0.165930295
+Hennige_green,648.314,0.168565684
+Hennige_green,649.4138,0.173841823
+Hennige_green,650.3302,0.179117962
+Hennige_green,651.4298,0.185713137
+Hennige_green,652.3458,0.192308311
+Hennige_green,653.4445,0.202863271
+Hennige_green,654.3596,0.214739946
+Hennige_green,655.4559,0.237176944
+Hennige_green,656.3695,0.255651475
+Hennige_green,657.2821,0.278820375
+Hennige_green,658.3789,0.300268097
+Hennige_green,659.292,0.319034853
+Hennige_green,660.39,0.335120643
+Hennige_green,661.3022,0.35924933
+Hennige_green,662.3994,0.378016086
+Hennige_green,663.3098,0.412868633
+Hennige_green,664.222,0.436997319
+Hennige_green,665.3167,0.469168901
+Hennige_green,666.2309,0.485254692
+Hennige_green,667.328,0.501340483
+Hennige_green,668.2436,0.512064343
+Hennige_green,669.3423,0.522788204
+Hennige_green,670.2591,0.525469169
+Hennige_green,671.3601,0.525469169
+Hennige_green,672.2778,0.522788204
+Hennige_green,673.3806,0.514745308
+Hennige_green,674.3016,0.495978552
+Hennige_green,675.2223,0.482573727
+Hennige_green,676.3273,0.461126005
+Hennige_green,677.2488,0.442359249
+Hennige_green,678.357,0.404825737
+Hennige_green,679.285,0.353887399
+Hennige_green,680.207,0.332439678
+Hennige_green,681.3139,0.302949062
+Hennige_green,682.2362,0.278820375
+Hennige_green,683.342,0.255538874
+Hennige_green,684.2662,0.222533512
+Hennige_green,685.3734,0.192168901
+Hennige_green,686.2946,0.173683646
+Hennige_green,687.2156,0.156520107
+Hennige_green,688.3219,0.130115282
+Hennige_green,689.2429,0.112949062
+Hennige_green,690.3465,0.099745308
+Hennige_green,691.2661,0.089182306
+Hennige_green,692.3695,0.077297587
+Hennige_green,693.2885,0.069372654
+Hennige_green,694.207,0.064088472
+Hennige_green,695.3085,0.061442359
+Hennige_green,696.2267,0.057479893
+Hennige_green,697.3285,0.053514745
+Hennige_green,698.2467,0.049549598
+Hennige_green,699.3482,0.046906166
+Hennige_green,700.2661,0.044262735
+Hennige_green,701.3676,0.041616622
+Hennige_green,702.2856,0.03897319
+Hennige_green,703.2033,0.037648794
+Hennige_green,704.305,0.033683646
+Hennige_green,705.2227,0.03236193
+Hennige_green,706.3239,0.031034853
+Hennige_green,707.2416,0.029713137
+Hennige_green,708.3431,0.027067024
+Hennige_green,709.2612,0.023103485
