@@ -23,7 +23,6 @@
 #' @return A list containing the processed MS8 logger data, including a combined dataset as well as the individual channels present.
 #' 
 parse.MS8.logger.dat=function(file.f){
-  # scratch: absorption.dat=NA;night.correct=T; include.daily=T
   require(doBy)
   #require(plyr)
   #require(caTools)

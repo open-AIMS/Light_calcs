@@ -52,13 +52,13 @@ calc.PAR=function(SZA=0,
 
   # read in supporting data
   if(length(solar.zenith.dat)==1){
-   solar.zenith.dat=read.csv("Data/solar_zenith_dat.csv")
+   solar.zenith.dat=Light.calcs::solar.zenith.dat
   }
   if(length(model.dat)==1){
-   model.dat=read.csv("Data/model_dat.csv")
+   model.dat=Light.calcs::model.dat
   }
   if(length(absorption.dat)==1){
-   absorption.dat=read.csv("Data/absorption_dat.csv")
+   absorption.dat=Light.calcs::absorption.dat
   }
 
   # extract variables
