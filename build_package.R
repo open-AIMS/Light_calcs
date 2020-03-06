@@ -1,17 +1,11 @@
-library(roxygen2)
-roxygen2::roxygenise(clean = TRUE)
-
-
-
 library(devtools)
 library(roxygen2)
 library(knitr)
 library(R.rsp)
 library(digest)
 
-devtools::document()
-
-
+roxygen2::roxygenise(clean = TRUE)
 build()
 
-
+# devtools::install_github('AIMS/Light_calcs')
+# library(Light_calcs)
