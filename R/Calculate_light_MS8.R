@@ -36,8 +36,9 @@ calculate.MS8.logger.dat=function(parsed.file.f,
   require(plyr)
   require(caTools)
   
+  cat('Hello_calculate_absorp')
   if(missing(absorption.dat)){
-   absorption.dat=absorptionDat
+    absorption.dat  <-  Light.calcs:::data_list$absorptionDat
   }
 
   #-----------------------------------------------------------------------------

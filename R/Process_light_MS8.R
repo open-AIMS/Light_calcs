@@ -36,8 +36,9 @@ proccess.MS8.logger.dat=function(file.f,
   require(plyr)
   require(caTools)
   
+  cat('Hello_proccess_absorp')
   if(missing(absorption.dat)){
-   absorption.dat=absorptionDat
+    absorption.dat  <-  Light.calcs:::data_list$absorptionDat
   }
 
   tt=scan(file.f,what="character")

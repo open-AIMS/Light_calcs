@@ -8,4 +8,5 @@ solarZenithDat  <-  read.csv("data-raw/solar_zenith_dat.csv")
 # Note that names are unquoted.
 # I like using overwrite = T so everytime I run the script the 
 # updated objects are saved, but the default is overwrite = F
-usethis::use_data(absorptionDat, modelDat, solarZenithDat, internal = TRUE, overwrite = TRUE)
+data_list  <-  list('absorptionDat' = absorptionDat, 'modelDat' = modelDat, 'solarZenithDat' = solarZenithDat)
+usethis::use_data(data_list, internal = TRUE, overwrite = TRUE)
