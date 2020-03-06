@@ -7,8 +7,8 @@
 #'}
 #' @name absorptionDat
 #' @docType data
-NULL
-
+#' @export
+'absorptionDat'
 
 #' @title modelDat
 #' @description Model data derived from IMO observations in Cleveland Bay
@@ -25,7 +25,8 @@ NULL
 #' @source \url{}
 #' @name modelDat
 #' @docType data
-NULL
+#' @export
+'modelDat'
 
 #' @title solarZenithDat
 #' @description MSolar zenith data
@@ -37,5 +38,5 @@ NULL
 #' @source \url{}
 #' @name solarZenithDat
 #' @docType data
-NULL
-
+#' @export
+'solarZenithDat'
