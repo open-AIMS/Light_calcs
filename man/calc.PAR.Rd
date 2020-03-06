@@ -8,9 +8,9 @@ calc.PAR(
   SZA = 0,
   TSS = 0,
   Depth = 0,
-  solar.zenith.dat = solarZenithDat,
-  model.dat = modelDat,
-  absorption.dat = absorptionDat,
+  solar.zenith.dat,
+  model.dat,
+  absorption.dat,
   ND.adj = 1,
   nm.range = c(400, 700)
 )

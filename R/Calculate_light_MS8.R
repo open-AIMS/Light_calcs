@@ -28,7 +28,7 @@
 #' @return A list containing the processed MS8 logger data.
 
 calculate.MS8.logger.dat=function(parsed.file.f,
-                               absorption.dat=absorptionDat,
+                               absorption.dat,
                                night.correct=T,
                                include.daily=T){
   # scratch: absorption.dat=NA;night.correct=T; include.daily=T
@@ -36,9 +36,9 @@ calculate.MS8.logger.dat=function(parsed.file.f,
   require(plyr)
   require(caTools)
   
-  # if(length(absorption.dat)==1){
-  #  absorption.dat=absorptionDat
-  # }
+  if(missing(absorption.dat)){
+   absorption.dat=absorptionDat
+  }
 
   #-----------------------------------------------------------------------------
   # remove cleaned data

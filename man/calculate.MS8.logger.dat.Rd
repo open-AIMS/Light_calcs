@@ -6,7 +6,7 @@
 \usage{
 calculate.MS8.logger.dat(
   parsed.file.f,
-  absorption.dat = absorptionDat,
+  absorption.dat,
   night.correct = T,
   include.daily = T
 )

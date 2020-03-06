@@ -28,7 +28,7 @@
 #' @return A list containing the processed MS8 logger data.
 
 proccess.MS8.logger.dat=function(file.f,
-                                 absorption.dat=absorptionDat,
+                                 absorption.dat,
                                  night.correct=T,
                                  include.daily=T){
   # scratch: absorption.dat=NA;night.correct=T; include.daily=T
@@ -36,9 +36,9 @@ proccess.MS8.logger.dat=function(file.f,
   require(plyr)
   require(caTools)
   
-  # if(length(absorption.dat)==1){
-  #  absorption.dat=absorptionDat
-  # }
+  if(missing(absorption.dat)){
+   absorption.dat=absorptionDat
+  }
 
   tt=scan(file.f,what="character")
   tt=unlist(strsplit(tt,split=","))
