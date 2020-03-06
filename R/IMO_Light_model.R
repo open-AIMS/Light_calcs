@@ -46,21 +46,21 @@ calc.PAR=function(SZA=0,
                   nm.range=c(400,700)){
   #SZA=0;TSS=0.5;Depth=5;solar.zenithDat=NA;model.dat=NA;absorptionDat=NA;nm.range=c(400,700)
   #install.packages("NISTunits", dependencies = TRUE)
-  require(NISTunits)
+  #require(NISTunits)
   #NISTdegTOradian(180)
   #NISTradianTOdeg(pi)
 
   # read in supporting data
 
    if(missing(model.dat)){
-    model.dat=modelDat
+    model.dat=Light.calcs::modelDat
    }
    if(missing(absorption.dat)){
-    absorption.dat=absorptionDat
+    absorption.dat=Light.calcs::absorptionDat
    }
    if(missing(solar.zenith.dat)){
      #browser()
-     solar.zenith.dat=solarZenithDat
+     solar.zenith.dat=Light.calcs::solarZenithDat
    }
 
   # extract variables
