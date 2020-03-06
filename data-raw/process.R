@@ -10,3 +10,8 @@ solarZenithDat  <-  read.csv("data-raw/solar_zenith_dat.csv")
 # updated objects are saved, but the default is overwrite = F
 data_list  <-  list('absorptionDat' = absorptionDat, 'modelDat' = modelDat, 'solarZenithDat' = solarZenithDat)
 usethis::use_data(data_list, internal = TRUE, overwrite = TRUE)
+
+
+
+actionSpetrumDat <- read.csv("data-raw/ActionSpetrum_dat.csv")
+usethis::use_data(actionSpetrumDat, internal = FALSE, overwrite = TRUE)
