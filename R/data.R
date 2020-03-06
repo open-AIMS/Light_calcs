@@ -11,7 +11,7 @@
 #' @name absorptionDat
 #' @docType data
 #' @export
-NULL
+"absorptionDat"
 
 
 #' @title modelDat
@@ -30,9 +30,9 @@ NULL
 #' @name modelDat
 #' @docType data
 #' @export
-NULL
+"modelDat"
 
-#' @title solar.zenithDat
+#' @title solarZenithDat
 #' @description MSolar zenith data
 #' @format A data frame with 91 obs. of  2 variables:
 #' \describe{
@@ -40,8 +40,8 @@ NULL
 #'   \item{\code{frac}}{frac}
 #'}
 #' @source \url{}
-#' @name solar.senithDat
+#' @name solarZenithDat
 #' @docType data
 #' @export
-NULL
+"solarZenithDat"
 
