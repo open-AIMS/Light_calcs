@@ -1,8 +1,8 @@
-Package: Light.calcs
+Package: Light_calcs
 Title: A pacakge for processing benthic light data. R package version 1. https://github.com/AIMS/Light_calcs
 Version: 1.0
 Authors@R: person("Rebecca", "Fisher", email = "r.fisher@aims.gov.au", role = c("aut", "cre"))
-Description: Light.calcs contains R code for calculating benthic light, including PAR, PUR and their DLI equivalents.
+Description: Light_calcs contains R code for calculating benthic light, including PAR, PUR and their DLI equivalents.
 Depends:
     R (>= 3.3.2)
 License: CC0
