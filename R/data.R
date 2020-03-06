@@ -10,6 +10,7 @@
 #'}
 #' @name absorptionDat
 #' @docType data
+#' @export
 NULL
 
 
@@ -28,6 +29,7 @@ NULL
 #' @source \url{}
 #' @name modelDat
 #' @docType data
+#' @export
 NULL
 
 #' @title solar.zenithDat
@@ -40,5 +42,6 @@ NULL
 #' @source \url{}
 #' @name solar.senithDat
 #' @docType data
+#' @export
 NULL
 
