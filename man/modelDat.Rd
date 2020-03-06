@@ -17,10 +17,6 @@
 \source{
 \url{}
 }
-\usage{
-modelDat
-}
 \description{
 Model data derived from IMO observations in Cleveland Bay
 }
-\keyword{datasets}

@@ -9,10 +9,6 @@
   \item{\code{nm}}{double Wavelength in nm}
   \item{\code{Absorption}}{double Normalised absorption spectra}
 }}
-\usage{
-absorptionDat
-}
 \description{
 Absorption data
 }
-\keyword{datasets}
