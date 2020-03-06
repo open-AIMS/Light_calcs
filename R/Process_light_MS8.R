@@ -28,13 +28,17 @@
 #' @return A list containing the processed MS8 logger data.
 
 proccess.MS8.logger.dat=function(file.f,
-                                 absorption.dat=Light.calcs::absorptionDat,
+                                 absorption.dat=NA,
                                  night.correct=T,
                                  include.daily=T){
   # scratch: absorption.dat=NA;night.correct=T; include.daily=T
   require(doBy)
   require(plyr)
   require(caTools)
+  
+  if(length(absorption.dat)==1){
+   absorption.dat=absorptionDat
+  }
 
   tt=scan(file.f,what="character")
   tt=unlist(strsplit(tt,split=","))
@@ -223,9 +227,6 @@ proccess.MS8.logger.dat=function(file.f,
   MS8.dat.f.out$MS8.temperature=as.numeric(gsub(">","",MS8.dat.f[,"Temp"]))
 
   # Add PUR based on an action spectrum
-  #if(length(absorption.dat)==1){
-  # absorption.dat=Light.calcs::absorptionDat
-  #}
   absorption.dat=merge(data.frame(nm=new.lambda.vec),absorption.dat,all=T)
   absorption.vals=approx(absorption.dat$nm,
                                           absorption.dat$Absorption,

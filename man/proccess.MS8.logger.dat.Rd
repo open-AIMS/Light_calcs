@@ -6,7 +6,7 @@
 \usage{
 proccess.MS8.logger.dat(
   file.f,
-  absorption.dat = Light.calcs::absorptionDat,
+  absorption.dat = NA,
   night.correct = T,
   include.daily = T
 )
