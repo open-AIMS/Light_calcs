@@ -53,14 +53,14 @@ calc.PAR=function(SZA=0,
   # read in supporting data
 
    if(missing(model.dat)){
-    model.dat=Light.calcs::modelDat
+    model.dat=Light.calcs:::modelDat
    }
    if(missing(absorption.dat)){
-    absorption.dat=Light.calcs::absorptionDat
+    absorption.dat=Light.calcs:::absorptionDat
    }
    if(missing(solar.zenith.dat)){
      #browser()
-     solar.zenith.dat=Light.calcs::solarZenithDat
+     solar.zenith.dat=Light.calcs:::solarZenithDat
    }
 
   # extract variables
