@@ -31,7 +31,7 @@
 #' @param ND.adj xxx
 #' 
 #' @param nm.range Light eavelength range over which PUR and PAR will be calculated
-#'
+#' @import NISTunits
 #' @export
 #' @return Calculated PUR and PAR light data.
 
@@ -75,7 +75,7 @@ calc.PAR=function(SZA=0,
   Es_C3=model.dat$Es_C3
 
   EDpve=(Es_C0+Es_C1*Solar.Zenith.Angle+Es_C2*Solar.Zenith.Angle^2+
-     Es_C3*Solar.Zenith.Angle^3)*cos(NISTunits::NISTdegTOradian(Solar.Zenith.Angle))
+     Es_C3*Solar.Zenith.Angle^3)*cos(NISTdegTOradian(Solar.Zenith.Angle))
 
   fracval=frac[which(sza==Solar.Zenith.Angle)]#sum(R9:R99)#fracval
 

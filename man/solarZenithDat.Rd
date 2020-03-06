@@ -12,10 +12,6 @@
 \source{
 \url{}
 }
-\usage{
-solarZenithDat
-}
 \description{
 MSolar zenith data
 }
-\keyword{datasets}
