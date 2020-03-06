@@ -28,7 +28,7 @@
 #' @return A list containing the processed MS8 logger data.
 
 proccess.MS8.logger.dat=function(file.f,
-                                 absorption.dat=absorptionDat,
+                                 absorption.dat=Light.calcs::absorptionDat,
                                  night.correct=T,
                                  include.daily=T){
   # scratch: absorption.dat=NA;night.correct=T; include.daily=T

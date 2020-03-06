@@ -39,9 +39,9 @@
 calc.PAR=function(SZA=0,
                   TSS=0,
                   Depth=0,
-                  solar.zenith.dat=solarZenithDat,
-                  model.dat=modelDat,
-                  absorption.dat=absorptionDat,
+                  solar.zenith.dat=Light.calcs::solarZenithDat,
+                  model.dat=Light.calcs::modelDat,
+                  absorption.dat=Light.calcs::absorptionDat,
                   ND.adj=1,
                   nm.range=c(400,700)){
   #SZA=0;TSS=0.5;Depth=5;solar.zenithDat=NA;modelDat=NA;absorptionDat=NA;nm.range=c(400,700)
