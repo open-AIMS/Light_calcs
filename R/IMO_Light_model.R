@@ -51,15 +51,12 @@ calc.PAR=function(SZA=0,
   #NISTradianTOdeg(pi)
 
   # read in supporting data
-  cat('Hello_IMO_model')
    if(missing(model.dat)){
     model.dat  <-  Light.calcs:::data_list$modelDat
    }
-   cat('Hello_IMO_absorp')
    if(missing(absorption.dat)){
     absorption.dat  <-  Light.calcs:::data_list$absorptionDat
    }
-   cat('Hello_IMO_solar')
    if(missing(solar.zenith.dat)){
      solar.zenith.dat  <-  Light.calcs:::data_list$solarZenithDat
    }
