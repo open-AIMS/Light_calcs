@@ -39,7 +39,7 @@ NULL
 #' @docType data
 NULL
 
-#' @title actionSpectrumData
+#' @title actionSpectrumDat
 #' @description Action spectra data from various sources
 #' @format A data frame with 1813 obs. of  3 variables:
 #' \describe{
@@ -48,6 +48,6 @@ NULL
 #'   \item{\code{Absorption}}{Absorption}   
 #'}
 #' @source \url{}
-#' @name actionSpectrumData
+#' @name actionSpectrumDat
 #' @docType data
 
