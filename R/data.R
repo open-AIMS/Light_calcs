@@ -39,7 +39,8 @@ NULL
 #' @docType data
 NULL
 
-#' @title actionSpectrumDat
+#' Action spectra data
+#' @source various
 #' @description Action spectra data from various sources
 #' @format A data frame with 1813 obs. of  3 variables:
 #' \describe{
@@ -47,7 +48,8 @@ NULL
 #'   \item{\code{nm}}{nm}
 #'   \item{\code{Absorption}}{Absorption}   
 #'}
-#' @source \url{}
-#' @name actionSpectrumDat
-#' @docType data
-NULL
+#' @examples 
+#' \dontrun{
+#' actionSpectrumDat
+#' } 
+"actionSpectrumDat"

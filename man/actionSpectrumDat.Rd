@@ -3,7 +3,7 @@
 \docType{data}
 \name{actionSpectrumDat}
 \alias{actionSpectrumDat}
-\title{actionSpectrumDat}
+\title{Action spectra data}
 \format{A data frame with 1813 obs. of  3 variables:
 \describe{
   \item{\code{study.spectra}}{study.spectra}
@@ -11,8 +11,17 @@
   \item{\code{Absorption}}{Absorption}   
 }}
 \source{
-\url{}
+various
+}
+\usage{
+actionSpectrumDat
 }
 \description{
 Action spectra data from various sources
 }
+\examples{
+\dontrun{
+actionSpectrumDat
+} 
+}
+\keyword{datasets}
