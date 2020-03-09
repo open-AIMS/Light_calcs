@@ -50,4 +50,4 @@ NULL
 #' @source \url{}
 #' @name actionSpectrumDat
 #' @docType data
-
+NULL
