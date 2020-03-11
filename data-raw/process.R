@@ -15,3 +15,6 @@ usethis::use_data(data_list, internal = TRUE, overwrite = TRUE)
 
 actionSpectrumDat <- read.csv("data-raw/ActionSpetrum_dat.csv")
 usethis::use_data(actionSpectrumDat, internal = FALSE, overwrite = TRUE)
+
+experimentalSpectrumDat <- read.csv("data-raw/Experimental_spectrum.csv")
+usethis::use_data(experimentalSpectrumDat, internal = FALSE, overwrite = TRUE)

@@ -53,3 +53,18 @@ NULL
 #' actionSpectrumDat
 #' } 
 "actionSpectrumDat"
+
+#' Experiment spectra data
+#' @source various
+#' @description Action spectra data from various sources
+#' @format A data frame with 1813 obs. of  3 variables:
+#' \describe{
+#'   \item{\code{Light.source}}{Light.source}
+#'   \item{\code{Wavelength}}{Wavelength}
+#'   \item{\code{Relative.Intensity}}{Relative.Intensity}   
+#'}
+#' @examples 
+#' \dontrun{
+#' experimentalSpectrumDat
+#' } 
+"experimentalSpectrumDat"
