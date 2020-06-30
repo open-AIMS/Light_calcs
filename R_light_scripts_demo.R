@@ -28,6 +28,14 @@ require(Light.calcs)
 
 calc.PAR()
 
+calc.PAR(  SZA = 0,
+           TSS = 0,
+           Depth = 0,
+           ND.adj = 1,
+           nm.range = c(400, 700)
+)
+
+
 No_Tur=list(
 TSS=0.5,
 ND.adj=c(1,0.78926,0.078626))
