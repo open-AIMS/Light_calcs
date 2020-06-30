@@ -108,5 +108,5 @@ calc.PAR=function(SZA=0,
   PAR=sum(microM.sec[sum.index])
   PUR=sum((microM.sec*absorption.vals)[sum.index])
 
-  return(data.frame(PAR=PAR,PUR=PUR, microW.cm2.nm=microW.cm2.nm))
+  return(data.frame(PAR=PAR,PUR=PUR))
 }
