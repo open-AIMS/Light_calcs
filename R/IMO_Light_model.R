@@ -43,7 +43,8 @@ calc.PAR=function(SZA=0,
                   model.dat,
                   absorption.dat,
                   ND.adj=1,
-                  nm.range=c(400,700)){
+                  nm.range=c(400,700),
+                  return.workings=FALSE){
   #SZA=0;TSS=0.5;Depth=5;solar.zenithDat=NA;model.dat=NA;absorptionDat=NA;nm.range=c(400,700)
   #install.packages("NISTunits", dependencies = TRUE)
   #require(NISTunits)
@@ -107,6 +108,10 @@ calc.PAR=function(SZA=0,
   sum.index=match(nm.range[1]:nm.range[2],lambda)
   PAR=sum(microM.sec[sum.index])
   PUR=sum((microM.sec*absorption.vals)[sum.index])
+  
+  out <- data.frame(PAR=PAR,PUR=PUR)
+  if(return.workings){
+    return(c(out, microW.cm2.nm=list(microW.cm2.nm)))
+  }else{return(out)}
 
-  return(data.frame(PAR=PAR,PUR=PUR))
 }
