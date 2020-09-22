@@ -28,12 +28,16 @@ require(Light.calcs)
 
 calc.PAR()
 
-calc.PAR(  SZA = 0,
+test <- calc.PAR(  SZA = 0,
            TSS = 0,
            Depth = 0,
            ND.adj = 1,
-           nm.range = c(400, 700)
+           nm.range = c(400, 700),
+           return.workings = TRUE
 )
+names(test)
+
+Light.calcs::model.dat
 
 
 No_Tur=list(
