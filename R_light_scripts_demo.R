@@ -24,19 +24,19 @@ require(Light.calcs)
 #source("R/Process_light_MS8.R")
 #source("R/Parse_light_MS8.R")
 #source("R/Calculate_light_MS8.R")
-### Light experiment cheat sheert
+### Light experiment cheat sheet
 
 calc.PAR()
 
-test <- calc.PAR(  SZA = 0,
-           TSS = 0,
-           Depth = 0,
+test <- calc.PAR(  SZA = 90,
+           TSS = 1,
+           Depth = 1,
            ND.adj = 1,
            nm.range = c(400, 700),
            return.workings = TRUE
 )
 names(test)
-
+test$PAR
 Light.calcs::model.dat
 
 
