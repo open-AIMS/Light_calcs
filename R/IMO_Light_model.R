@@ -30,7 +30,7 @@
 #' 
 #' @param ND.adj xxx
 #' 
-#' @param nm.range Light eavelength range over which PUR and PAR will be calculated
+#' @param nm.range Light wavelength range over which PUR and PAR will be calculated
 #' @importFrom NISTunits NISTdegTOradian
 #' @export
 #' @return Calculated PUR and PAR light data.
